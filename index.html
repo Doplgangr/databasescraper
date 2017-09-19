@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.1.4/dist/sheetrock.min.js"></script>
+</script>
+<script>
+	var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1lIZeueadG24egWy1imSU2iBk3ASj0-X83rUU1zJ3RlU/edit#gid=0';
+
+	var display = function(ID, NUMBER, LIST){
+		console.log("display "+ID+" "+NUMBER+" ");
+		sheetrock({
+			url: mySpreadsheet,
+			query: "select * where A="+ID,
+callback: function (error, options, response) {
+  if (!error) {
+	console.log(response);
+	$("div.QUESTION_CODE").html(response.rows[1].cells.QUESTION_CODE);
+	$("div.QUESTION").html(response.rows[1].cells.QUESTION);
+	$("ul.ANSWERS").html(null);
+	$.each(JSON.parse(response.rows[1].cells.ANSWERS), function(key,val) {
+                    $("ul.ANSWERS").append( "<li id='" + key + "'>" + val + "</li>" );
+                  });
+  	}
+	$("p.CORRECT").html(response.rows[1].cells.CORRECT);
+	$('#spoiler_id').css("display","none"); 				$('#show_id').css("display","");
+	$('button.next').unbind("click");
+	$('button.next').click(function() {
+	  display(LIST[NUMBER+1],NUMBER+1,LIST);
+	});
+}	
+		})	
+	};
+
+
+	sheetrock({
+  url: mySpreadsheet,
+  query: "select A",
+  callback: function (error, options, response) {
+	var IDlist = null;
+  if (!error) {
+	IDlist = response.rows.map(function(input){
+		if (input.cells.QUESTION_CODE != "QUESTION_CODE"){return input.cells.QUESTION_CODE;}
+return null;
+});
+	$.each(IDlist,function(key,val){
+		if (val) {$("div.list").append("<button class=button"+val+" >"+val+"</button>");
+		$("button.button"+val).click(function(){display(IDlist[key], key, IDlist)})}
+
+});
+	display (IDlist[1], 1, IDlist);
+  }
+}
+});
+</script>
+</head>
+<body>
+<div class="container">
+  <H1><div class="QUESTION_CODE">_loading code_</div></H1>
+  <p><div class="QUESTION">_loading question_</div></p>
+  <ul class="ANSWERS"></ul>
+<button id="show_id" onclick="document.getElementById('spoiler_id').style.display=''; document.getElementById('show_id').style.display='none';">Show Answer</button><span id="spoiler_id" style="display: none"><button onclick="document.getElementById('spoiler_id').style.display='none'; document.getElementById('show_id').style.display='';" class="link">Hide Answer</button><br><p class="CORRECT">_loading correct answer_</p></span>
+<button class="next">NEXT</button>
+</div>
+<p><div class='list'></div></p>
+</body>
+</html>
