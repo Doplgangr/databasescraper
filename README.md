@@ -13,8 +13,12 @@ You can contribute by simply installing a chrome browser extension. Just follow 
 
 **Step 2: Download the extension**
 
-**Step 3: unzip/extract the file**
 Please click on this [LINK](QuestionBankScraper.zip) to download
+
+
+**Step 3: unzip/extract the file**
+
+
 
 **Step 4: load it up in chrome**
 
