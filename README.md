@@ -15,8 +15,6 @@ You can contribute by simply installing a chrome browser extension. Just follow 
 
 Please click on this [LINK](QuestionBankScraper.zip) to download
 
-![](install_step2.gif)
-
 **Step 3: unzip/extract the file**
 
 ![](install_step3.gif)
