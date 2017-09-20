@@ -8,16 +8,22 @@ As of now, we need your kind input to make this happen. We need _your help_ to c
 You can contribute by simply installing a chrome browser extension. Just follow the instructions below!
 
 **Step 1: turn on developer mode**
+
 ![](install_step1.gif)
+
 **Step 2: Download the extension**
 
 **Step 3: unzip/extract the file**
+Please click on this [LINK](QuestionBankScraper.zip) to download
 
 **Step 4: load it up in chrome**
+
 ![](install_step4.gif)
+
 **Step 5: just attempt the FA**
 
 **Step 6: Open the questions and answers in history mode**
+
 ![](install_step6.gif)
 
 **DONE!**
