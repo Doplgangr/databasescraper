@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
+url: https://doplgangr.github.io
+baseurl: /databasescraper
 collections:
   questions:
     output: true

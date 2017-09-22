@@ -27,13 +27,9 @@
 		this.page.identifier = getID(); // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 	};
 	var getURL = function(){
-		return "{{page.url}}";
+		return "{{site.url}}{{site.baseurl}}{{page.url}}";
 	}
 	var getID = function(){return "{{page.QUESTION_CODE}}"}
-	var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1lIZeueadG24egWy1imSU2iBk3ASj0-X83rUU1zJ3RlU/edit#gid=0';
-	$.each(JSON.parse('{{page.ANSWERS}}'), function(key,val) {
-				$("ul.ANSWERS").append( "<li id='" + key + "'>" + val + "</li>" );
-			  });	
 
 	(function() { // DON'T EDIT BELOW THIS LINE
 	var d = document, s = d.createElement('script');
