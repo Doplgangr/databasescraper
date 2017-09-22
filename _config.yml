@@ -1,12 +1,7 @@
 theme: jekyll-theme-slate
 collections:
-- questions:
+  questions:
     output: true
-defaults:
-  - scope:
-      path: ''
-      type: 'questions'
-    values:
-      layout: 'questions'
+    permalink: /questions/:path/
 plugins:
   - jekyll-sitemap
