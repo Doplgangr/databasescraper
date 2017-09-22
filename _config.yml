@@ -1,15 +1,10 @@
 theme: jekyll-theme-slate
 url: https://doplgangr.github.io
 baseurl: /databasescraper
-collections:
-  questions:
-    output: true
-    permalink: /questions/:path/
-defaults:
-  - scope:
-      path: ''
-      type: 'questions'
-    values:
-      layout: 'questions'
+page_gen:
+  - data: 'questions'
+    template: 'questions'
+    name: 'QUESTION_CODE'
+    dir: 'question'
 plugins:
   - jekyll-sitemap
