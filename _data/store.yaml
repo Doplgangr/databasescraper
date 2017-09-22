@@ -1,1 +1,1023 @@
-
+- QUESTION_CODE: '543'
+  QUESTION: '  What is the most likely differential diagnosis?    A five year old boy with a moderate fever for 2 days, complaining of pain of the throat when swallowing saliva. The pharynx is red and swollen with large cervical lymph nodes. There is no cough or runny nose.  '
+  ANSWERS: >-
+    ["A.   Bacterial meningitis  ","B.   Bronchitis  ","C.   Epilepsy  ","D.  
+    Kawasaki`s disease  ","E.   Pharyngitis  ","F.   Pneumonia  ","G.  
+    Rheumatic fever  ","H.   Scarlet fever  ","I.   Tonsillitis  ","J.   Viral
+    croup  "]
+  CORRECT: 'E.   Pharyngitis  '
+- QUESTION_CODE: '2301'
+  QUESTION: |2-
+      CLK, a 9-year-old girl, diagnosed with Klippel Trenaunay syndrome since birth, presented with recurrent unilateral swelling and pain of right upper and lower   
+      limbs. Symptoms increased in severity and frequency for the past 2 months. Pain was dull and aching in nature, with occasional spasm of the toes. There   
+      was no history of trauma or insect bite.   
+        
+      On P/E, general condition was very good. She was afebrile. Red patches of skin   
+      discoloration were noted over her right upper and lower limbs, back and chest. There was an associated right-sided hypertrophy and swelling. No pitting edema.    What would be the most appropriate next step management of this patient?     
+  ANSWERS: >-
+    ["A.   Skin swab for culture and sensitivity  ","B.   Reassurance and
+    discharge  ","C.   Collect 24-hr urine protein  ","D.   Doppler USG for
+    venous patency and presence of DVT  ","E.   Corticosteroid to decrease
+    swelling  "]
+  CORRECT: 'D.   Doppler USG for venous patency and presence of DVT  '
+- QUESTION_CODE: '1926'
+  QUESTION: '     In severe asthma, pulmonary function tests in a child are   LEAST LIKELY   to show which of followings?     '
+  ANSWERS: >-
+    ["A.   Increased total lung capacity  ","B.   Increased residual capacity 
+    ","C.   Increased lung elastic recoil  ","D.   Decreased lung compliance 
+    ","E.   Increased vital capacity  "]
+  CORRECT: 'E.   Increased vital capacity  '
+- QUESTION_CODE: '2377'
+  QUESTION: '  A term baby had a respiratory rate of 63 breaths/min., heart rate of 150 beats/min., grunting, and nasal flaring 10 minutes after his planned Caesarean section delivery. The mother was not in labour prior to the delivery. The operation went smoothly and quickly and clear liquor was noted. The Apgar score was 9 (1 min.) and 10 (5 min.) and umbilical cord blood results were normal. SaO2 was noted to be 87% when breathing room air. The baby was afebrile and not cyanotic. A chest radiograph (X-ray) was done for the baby and lung fields were "hazy" with fluid noted in the lung fissures.    Which of the following diagnoses is the most likely for this particular neonate?     '
+  ANSWERS: >-
+    ["A.   Pneumonia  ","B.   Transient tachypnoea of the newborn  ","C.  
+    Meconium aspiration syndrome  ","D.   Pneumothorax  ","E.   Persistent
+    pulmonary hypertension of the newborn  "]
+  CORRECT: 'B.   Transient tachypnoea of the newborn  '
+- QUESTION_CODE: '408'
+  QUESTION: '  For each patient with   cough,   select the most likely diagnosis.    KK Chan, 8 month-old boy, developed dry cough for 3 days with fever (38.7   0   C), breathlessness and feeding difficulty. There was no previous history of chronic cough. On examination, his respiratory rate was 60 breaths per min. There were fine end respiratory crackles and high-pitched wheezes on auscultation. The Chest X-ray showed hyperinflated lung. Nasopharyngeal secretions demonstrated RSV.  '
+  ANSWERS: >-
+    ["A.   Allergic rhinitis  ","B.   Asthma  ","C.   Bronchiectasis  ","D.  
+    Bronchiolitis  ","E.   Coryza  ","F.   Habit cough  ","G.   Inhaled foreign
+    body  ","H.   Pneumonia  ","I.   Viral croup  ","J.   Whooping cough  "]
+  CORRECT: 'D.   Bronchiolitis  '
+- QUESTION_CODE: '2025'
+  QUESTION: '  For each patient of respiratory distress, what is the most likely diagnosis?    An infant was born prematurely at 27 weeks via emergency caesarean section as the mother was injured critically in a road traffic accident. The birth weight was 1100g. Physical examination showed the respiratory effort of the infant was poor. He was cyanotic. Nasal flaring was observed. Respiratory rate was 75/min and heart rate was 165/min. Chest X-ray showed diffuse opacity of both lung fields.  '
+  ANSWERS: >-
+    ["A.   Bronchopulmonary dysplasia  ","B.   Diaphragmatic hernia  ","C.  
+    Meconium aspiration  ","D.   Persistent pulmonary hypertension of the
+    newborn  ","E.   Pneumothorax  ","F.   Pleural effusion  ","G.   Pulmonary
+    hypoplasia  ","H.   Pulmonary interstitial emphysema  ","I.   Respiratory
+    distress syndrome  ","J.   Transient tachypnoea of newborn  "]
+  CORRECT: 'I.   Respiratory distress syndrome  '
+- QUESTION_CODE: '1450'
+  QUESTION: '  What is the most appropriate investigation?    A 15 year old girl complaint of fever and persistent cough. There is also tiredness and breathlessness. She has respiratory infection 3 weeks ago. She found her neck very stiff and the abdominal pain so disturbing that she cannot concentrate on studying.  '
+  ANSWERS: >-
+    ["A.   Anti-DNA  ","B.   Bacterial culture  ","C.   C3  ","D.   Chest X-ray 
+    ","E.   CRP  ","F.   ESR  ","G.   Lumbar puncture  ","H.   Red cell count 
+    ","I.   Urine multistix  ","J.   White cell count  "]
+  CORRECT: 'D.   Chest X-ray  '
+- QUESTION_CODE: '432'
+  QUESTION: |2-
+      What is the most likely diagnosis in the following children with wheeze?    A 9 month old child is brought to the emergency room because of respiratory difficulty during this summer. She began having a runny nose, mild cough and low-grade fever 2 days ago. Earlier today, she began to have fast and laboured breathing and refused to eat. The per natal history of the patient was normal.   
+        
+      On physical exam, the patient was alert and tachypneic. Intercostals retractions and tachycardia was also noted. Diffused crackles, generalized wheezing and a prolonged expiratory phase were also present. Chest X-ray showed hyperinflation of the lungs with flattening of the diaphragm, horizontal ribs and increased hilar bronchial markings.  
+  ANSWERS: >-
+    ["A.   Asthma attack  ","B.   Aspiration of feeds  ","C.   Bronchiolitis 
+    ","D.   Bronchopulmonary dysplasia (chronic lung disease)  ","E.   Carcinoid
+    syndrome  ","F.   Cardiac asthma  ","G.   Chronic bronchitis  ","H.   Cystic
+    fibrosis  ","I.   Emphysema  ","J.   Foreign body inhalation  ","K.  
+    Mechanical obstruction by tumour (benign or malignant)  ","L.   Pneumonia 
+    ","M.   Pulmonary embolism  ","N.   Vocal cord dysfunction  ","O.   Wheezy
+    bronchitis  "]
+  CORRECT: 'C.   Bronchiolitis  '
+- QUESTION_CODE: '2734'
+  QUESTION: |2-
+      A full term newborn with suspected Tetralogy of Fallot from antenatal USG was delivered vaginally. No active resuscitation was required and he was asymptomatic at birth. On examination, there was an ejection systolic murmur of grade 3/6, best heard over left lower sternal border, other findings were all normal otherwise.   
+        
+      Echocardiogram findings showed:   
+      -AV concordance with overriding aorta   
+      -Large perimembranous VSD 5.8cm x 6.5 cm   
+      -Right to left shunting   
+      -Pulmonary stenosis with annular diameter 4.3mm & Pulmonary artery velocity 180cm/s   
+      -PDA almost closed   
+        
+      4 hours after birth, he had an episode of desaturation and became cyanotic.    Which of the following is the most appropriate initial management during `tet` spell (cyanotic spell) besides oxygen supplement?     
+  ANSWERS: >-
+    ["A.   Expectant management as it often resolves spontaneously  ","B.  
+    Place the infant in knee chest position to increase systemic vascular
+    resistance  ","C.   PO propranolol to reduce infundibular spasm to relieve
+    pulmonary stenosis and RV pressure  ","D.   IV phenylephrine to increase
+    systemic vascular resistance  ","E.   IV prostaglandin infusion to maintain
+    patency of ductus arteriosus  "]
+  CORRECT: >-
+    B.   Place the infant in knee chest position to increase systemic vascular
+    resistance  
+- QUESTION_CODE: '2347'
+  QUESTION: '  A 14 year-old girl with height of 1.6m and weight of 79.8kg presents with daytime sleepiness, restless sleep and loud snoring. On physical examination, her respiratory and cardiovascular systems are normal. She has moderate acanthosis nigricans over her neck and in both axilla and examination of the throat shows enlarged tonsils.    Which treatment would be most appropriate at this stage?     '
+  ANSWERS: >-
+    ["A.   No treatment  ","B.   Weight Reduction  ","C.   Oral steroids 
+    ","D.   Tonsilloadenoidectomy  ","E.   CPAP  "]
+  CORRECT: 'D.   Tonsilloadenoidectomy  '
+- QUESTION_CODE: '2369'
+  QUESTION: '  A 27-month-old girl presented with cough and shortness of breath for two days, found to have fever up to 38   o   C upon admission. From the history, there was no sore throat or runny nose, but there was on and off abdominal pain with vomiting of undigested food for 3 times. There was history of eczema at two-month-old but no asthma was diagnosed before. On physical examination, respiratory rate was 32/min, SaO2 was 94%. Diffuse rhonchi and were also found. Chest X-ray showed a hyperinflated lung.    What is the most likely diagnosis?     '
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Acute bronchiolitis  ","C.   Wheezy bronchitis 
+    ","D.   Bacterial Pneumonia  ","E.   Croup  "]
+  CORRECT: 'C.   Wheezy bronchitis  '
+- QUESTION_CODE: '2570'
+  QUESTION: '  A 9-year-old boy presenting with witnessed loud snoring for 2 years, awaken him everynight, around 3 times per night. There was no apnea during sleep or excessive daytime sleepiness.    What is/are the appropriate investigation(s) for such case?     '
+  ANSWERS: >-
+    ["A.   Polysomnography  ","B.   Overnight pulse oximetry at home  ","C.  
+    Chest x-ray  ","D.   Polysomnography and overnight pulse oximetry at home 
+    ","E.   No investigation is needed.  "]
+  CORRECT: 'A.   Polysomnography  '
+- QUESTION_CODE: '2326'
+  QUESTION: |2-
+      A 15 year-old boy, presented with sudden onset of dull pain over right upper chest, associated with shortness of breath. The pain was aggravated by deep breathing and forward bending of body. No associated cough, sputum production or night sweat. There were no recent trauma, fever or constitutional symptoms. He denied any palpitation or dizziness. He had good past health. All other history were unremarkable except he had an episode of pneumothorax over his left chest two months ago.   
+        
+      Upon physical examination, patient was a tall and thin adolescent, looked pink, not in distress, afebrile. Pallor and cyanosis were absent. Chest expansion was decreased over the right side. No tenderness over his chest. Percussion notes were all resonant. There was decreased air entry over the right upper zone. Breath sounds were vesicular in nature, with normal expiratory phase, but no crackles or other added sounds.    What is the mostly likely diagnosis for this patient?     
+  ANSWERS: >-
+    ["A.   Pneumonia  ","B.   Pulmonary embolism  ","C.   Pneumothorax  ","D.  
+    Costochondritis  ","E.   Precordial catch syndrome  "]
+  CORRECT: 'C.   Pneumothorax  '
+- QUESTION_CODE: '916'
+  QUESTION: |2-
+      For each patient with murmur, please select the most likely diagnosis?    Angel was an 11 month old girl. On neonatal examination, patent ductus arteriosus was found. During follow up at 4 months of age, grade 3 ejection systolic murmur best heard over the left upper sternal border was incidentally found. There was no radiation of the murmur. The second heart sound was not fix splitting and there was no diastolic murmur heard. The carotid pulse was not slow rising. Angel was all along asymptomatic with no signs of cardiac failure or cyanosis.   
+       
+  ANSWERS: >-
+    ["A.   Tetralogy of Fallot  ","B.   Transposition of great arteries  ","C.  
+    Ventricular septal defect  ","D.   Atrial septal defect  ","E.   Pulmonary
+    stenosis  ","F.   Aortic stenosis  ","G.   Coarctation of aorta  ","H.  
+    Patent ductus arteriosus  ","I.   Mitral regurgitation  ","J.  
+    Eisenmenger`s syndrome  "]
+  CORRECT: 'E.   Pulmonary stenosis  '
+- QUESTION_CODE: '593'
+  QUESTION: |2-
+      For each patient with lower limb oedema, select the most likely diagnosis.    A 1 year-old boy was referred from a general practitioner for abdominal distension and bilateral swollen legs for one month. He didn`t show shortness of breath or complained of any frothy urine.   
+        
+      On examination he was tachypneic. Pansystolic murmur was auscultated maximally heard at the lower left sternal border. Palpation of the abdomen showed a pulsatile liver 2cm below the right costal margin. On the legs, the veins were dilated and pulsatile. Urine dipstick showed protein negative.  
+  ANSWERS: >-
+    ["A.   CHF  ","B.   Cirrhosis  ","C.   Drugs  ","D.   Lymphatic obstruction 
+    ","E.   Malnutrition  ","F.   Nephrotic syndrome  ","G.   Pericardial
+    effusion  ","H.   Protein-losing enteropathy  ","I.   Tricuspid
+    regurgitation  ","J.   Tricuspid stenosis  ","K.   Venous insufficiency 
+    ","L.   Venous obstruction  "]
+  CORRECT: 'I.   Tricuspid regurgitation  '
+- QUESTION_CODE: '862'
+  QUESTION: |2-
+      For each patient with breathlessness, select the most likely diagnosis.    A 10 year old was presented to A&E with gradual onset of shortness of breath. It was associated with 2 day history of cough with yellowish sputum, fever and chest pain. On examination, he was lethargic with temperature of 101oF. His heart rate was 120 beats per minute and breathing rate was 30 breaths per minute. Upon cardiovascular examination, the heart sound was dual with no murmur. Upon respiratory examination, the chest expansion was normal and symmetrical on both sides. The chest was dull on percussion on the left lower zone of the lung. The breath sound was decreased on the left lower zone but was vesicular in nature. Chest X ray was taken but no abnormality was detected.   
+       
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Breath-holding attack  ","C.   Bronchiolitis  ","D.  
+    Croup  ","E.   congenital cyanotic heart disease  ","F.   Pleural effusion 
+    ","G.   Pneumothorax  ","H.   Pneumonia  ","I.   Respiratory distress
+    syndrome  ","J.   Tonsillitis  "]
+  CORRECT: 'H.   Pneumonia  '
+- QUESTION_CODE: '644'
+  QUESTION: '  What is the most likely diagnosis for the following patient?    A 10-month-old boy was noticed by his mother with sudden onset of shortness of breath and noisy breathing one morning while the child is lying on the bed. On examination the child is in respiratory distress with inspiratory stridor, use of accessory muscles and indrawing of intercostal spaces but no drooling of saliva, cough or voice hoarseness. The mother recalls that her son was playing with small toys before he was found to be dyspneic. The child was healthy since birth with no history of any respiratory diseases.  '
+  ANSWERS: >-
+    ["A.   Acute epiglottitis  ","B.   Viral croup  ","C.   Foreign body
+    inhalation  ","D.   Asthma  ","E.   Acute bronchiolitis  ","F.  
+    Tuberculosis  ","G.   Pneumonia  "]
+  CORRECT: 'C.   Foreign body inhalation  '
+- QUESTION_CODE: '102'
+  QUESTION: '     A patent ductus arteriosus in an otherwise normal 6-month-old infant is likely to be associated with     '
+  ANSWERS: >-
+    ["A.   a right-to-left shunt  ","B.   a continuous murmur at the second left
+    intercostal space  ","C.   a narrow pulse  ","D.   bacterial endocarditis 
+    ","E.   right ventricular hypertrophy  "]
+  CORRECT: 'B.   a continuous murmur at the second left intercostal space  '
+- QUESTION_CODE: '2738'
+  QUESTION: '  A 5-year-old girl is admitted with a history of a persistent nocturnal cough for 5 months. She developed shortness of breath today and her mother noticed an increase in her respiratory rate and wheezing. Her mother has a history of childhood asthma and allergic rhinitis. Her general practitioner has previously recommended that she use inhaled corticosteroids.    Her mother is concerned about the potential adverse effects of inhaled corticosteroids on her daughter`s growth. What is the best information you can give her mother?     '
+  ANSWERS: >-
+    ["A.   Inhaled corticosteroids used in moderate doses do not have adverse
+    effects on growth so there is no need to monitor her growth.  ","B.   High
+    dose and low dose steroids have similar adverse effects on children`s
+    growth.  ","C.   Growth may be slower with inital use of low to moderate
+    doses of inhaled corticosteroids, but adult height would not be affected in
+    the long-term.  ","D.   Using a higher dose short-acting bronchodilator is
+    more effective than corticosteroids in the long-term control of asthma. 
+    ","E.   No studies have shown adverse effects on growth with the use of
+    moderate doses of inhaled corticosteroids.  "]
+  CORRECT: >-
+    C.   Growth may be slower with inital use of low to moderate doses of
+    inhaled corticosteroids, but adult height would not be affected in the
+    long-term.  
+- QUESTION_CODE: '2584'
+  QUESTION: |2-
+      A 9-year-old girl presents with fever for three days. She also has cough with whitish sputum, mild runny nose with clear nasal discharge and a sore throat. Her mother had symptoms of a upper respiratory tract infection (URTI) one week ago.   
+        
+      Examination is unremarkable. Mother has been giving the girl daily vitamin C supplement for several years and she now asks you if Vitamin C can help prevent or treat URTIs.    Vitamin C supplement has which of the following effects on URTI prevention / treatment?     
+  ANSWERS: >-
+    ["A.   Prophylactic Vitamin C supplement can reduce the incidence of URTI 
+    ","B.   Prophylactic intake of vitamin C shorten the duration of URTI
+    symptoms  ","C.   Prophylactic intake of vitamin C reduce the severity of
+    URTI symptoms  ","D.   Therapeutic intake of vitamin C shorten the duration
+    of URTI symptoms  ","E.   herapeutic intake of vitamin C reduce the severity
+    of URTI symptoms  "]
+  CORRECT: >-
+    B.   Prophylactic intake of vitamin C shorten the duration of URTI
+    symptoms  
+- QUESTION_CODE: '304'
+  QUESTION: '  What is the most likely etiology of each patient with hypertension?    A 14-year-old high school boy was referred to the endocrine clinic for new-onset hypertension. Lift style modification and treatment with metoprolol tartrate had failed to control his hypertension. On examination, the blood pressure was 160/102 and a bruit was heard over the right kidney. Laboratory results showed hypokalemia and metabolic alkalosis. After three days of high salts diet, his plasma aldosterone was 50.6 ng/dL (reference range, 4-31), plasma renin activity was 5.1 ng/mL/hr (reference range, 0.7-3.3).  '
+  ANSWERS: >-
+    ["A.   Conn`s syndrome  ","B.   Essential hypertension  ","C.  
+    Glucocorticoid-remediable hyperaldosteronism  ","D.   Henoch-Schonlein
+    purpura nephritis  ","E.   Hyperaldosteronism secondary to renal artery
+    stenosis  ","F.   Nephrotic syndrome  ","G.   Phaeochromocytoma  ","H.  
+    Polyarteritis nodosa  ","I.   Polycystic kidney disease  ","J.   Reflux
+    nephropathy  ","K.   Renal artery embolism  ","L.   Wilms` tumor  "]
+  CORRECT: 'E.   Hyperaldosteronism secondary to renal artery stenosis  '
+- QUESTION_CODE: '2242'
+  QUESTION: |2-
+      Theme: A 32 weeks preterm baby with desaturation    What is the most appropriate next step of management?    Baby of SWT, born by emergency caesarean section in 32 weeks of gestation due to maternal deranged liver function. Shortly after birth the patient developed desaturation and requires 31% FiO2 oxygen supplement. Penicillin and Gentamicin was given but the situation failed to improve.   
+        
+      On physical examination the infant demonstrated chest wall recession with expiratory grunting. Heart rate 145 bpm, respiratory rate 66/min, Blood pressure 58/38, Body Temperature 36.2 degrees.   
+        
+      Investigation showed arterial Blood Gas pH = 7.14, pCO2 = 10.4 kPa, pO2 = 5.2 kPa. CRP level was < 1.0 mg/l. In Chest X Ray there was granular appearance with air bronchogram.  
+  ANSWERS: >-
+    ["A.   Expectant management  ","B.   Mechanical Ventilation  ","C.   Chest
+    Drain  ","D.   Intravenous Vancomycin  ","E.   Intravenous Erythromycin 
+    ","F.   Nebulized adrenaline  ","G.   Inhaled corticosteroid  ","H.   Oral
+    ibuprofen  ","I.   Short acting beta agonist and inhaled corticosteroid 
+    ","J.   Surfactant therapy followed by Continuous Positive Airway Pressure 
+    ","K.   Cafferine  "]
+  CORRECT: 'J.   Surfactant therapy followed by Continuous Positive Airway Pressure  '
+- QUESTION_CODE: '784'
+  QUESTION: |2-
+      For each patient presented with cough less than 4 weeks, select the most appropriate diagnosis.   
+         A 13 months old boy had a cough for 2 days associated with fever. The cough was like a seal barking and was non-productive. The fever was around 38 degree Celsius and was developed on the same day. He had no runny nose, no vomiting and diarrhea. He developed shortness of breath with stridor on the next day morning while he was sleeping. Physical examination found inspiratory stridor and chest wall insucking.   
+       
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiectasis  ","C.   Bronchiolitis  ","D.  
+    Bronchitis  ","E.   Croup  ","F.   Drugs  ","G.   Epiglottitis  ","H.  
+    Foreign object  ","I.   Gastroesophageal reflux  ","J.   Pneumonia  ","K.  
+    Postnasal drip  ","L.   Tuberculosis  "]
+  CORRECT: 'E.   Croup  '
+- QUESTION_CODE: '154'
+  QUESTION: '  A four year-old girl develops a cough, fever and non-purulent conjunctivitis. A rash then appears starting on her head and progressing down to cover her whole body. It is initially pink and maculopapular.    Which one of the following is most compatible with this clinical history?     '
+  ANSWERS: >-
+    ["A.   Chickenpox  ","B.   Stevens-Johnson syndrome  ","C.   Rubella 
+    ","D.   Measles  ","E.   Roseola  "]
+  CORRECT: 'D.   Measles  '
+- QUESTION_CODE: '2678'
+  QUESTION: |2-
+      A 6-month-old boy had fever for 5 days. He also had bilateral conjunctival injection, red lips, rash and erythema and edema of soles. He did not have any cough, vomiting or diarrhea.   
+        
+      Physical examination revealed that he was febrile (38.7   o   C), pulse rate 182 bpm, respiratory rate 28 breaths/min and SpO2 100% in room air. Serum CRP was elevated to 97.7 mg/L. Biochemical tests were normal except low serum albumin (33.7 g/L). Blood culture, nasopharyngeal aspirate, lumbar puncture, and urine multistix and culture were all negative.    For this patient with prolonged fever, select the most useful initial treatment.     
+  ANSWERS: >-
+    ["A.   Methylprednisolone  ","B.   Intravenous immunoglobulin  ","C.  
+    Aspirin  ","D.   Infliximab  ","E.   Albumin  "]
+  CORRECT: 'B.   Intravenous immunoglobulin  '
+- QUESTION_CODE: '190'
+  QUESTION: '  An 11 year-old girl was referred for management of fever for one month. She was treated in the GP`s clinic as pneumonia and was given a course of antibiotics with no response. Her past health was good and family health history was unremarkable. You found her to be pale and tired but she did not appear to be toxic. A few macular rash was noted over her face. Examination of other systems was normal. Examination of her urine showed hematuria and proteinuria. Complete blood picture showed anemia (8 gm/dL), thrombocytopenia (50 x 10   9   /L), normal white blood cells. Erythrocyte sedimentation rate was markedly elevated to 75 mm/hour.    What is the most likely diagnosis?     '
+  ANSWERS: >-
+    ["A.   Tuberculosis  ","B.   Leukemia  ","C.   Systemic lupus erythematosus 
+    ","D.   Rheumatic fever  ","E.   Subacute bacterial endocarditis  "]
+  CORRECT: 'C.   Systemic lupus erythematosus  '
+- QUESTION_CODE: '1874'
+  QUESTION: '  For each patient presented with haematuria, select the most likely diagnosis.    A 7-year-old boy, presented with whole stream haematuria. Patient`s mother reported having episodes of haematuria as well as hearing loss. Physical examination showed short stature and bilateral ankle edema.  '
+  ANSWERS: >-
+    ["A.   Alport`s syndrome  ","B.   Von Willebrand`s disease  ","C.  
+    Cystitis  ","D.   Henoch-Schonlein purpura  ","E.   Ig A nephropathy 
+    ","F.   Post-Streptococcus glomerulonephritis  ","G.   Renal vein
+    thrombosis  ","H.   Stones  ","I.   Systemic lupus erythematosus  ","J.  
+    Thin basement membrane disease  ","K.   Trauma  ","L.   Renal cell
+    carcinoma  "]
+  CORRECT: 'A.   Alport`s syndrome  '
+- QUESTION_CODE: '870'
+  QUESTION: |2-
+      What is the most likely diagnosis in each case?    A 1-year-old boy presented with one day history of stridor and shortness of breath, associated with hoarseness of voice during crying. He had low grade fever and a running nose for the past two days. He was tachypneic with moderate amount of dry cough.   
+       
+  ANSWERS: >-
+    ["A.   Viral croup  ","B.   Foreign body inhalation  ","C.   Retrolaryngeal
+    abscess  ","D.   Hypertrophic tonsils  ","E.   Acute epiglottitis  ","F.  
+    Bacterial tracheitis  ","G.   Post-intubation edema  ","H.   Laryngeal
+    burns  ","I.   Diphtheria  ","J.   Angioedema  "]
+  CORRECT: 'A.   Viral croup  '
+- QUESTION_CODE: '1729'
+  QUESTION: '  Which is the most likely underlying cause of the feeding problem?    A one-month-old Caucasian baby boy presented with vomiting and poor feeding. His mother recalled that he was very irritable after breastfeeding ever since birth. She had therefore switched to formula milk from the first week onwards but the situation did not improve and he had frequent vomiting. There was no diarrhoea and no eczema. On examination he was found to have jaundice and hepatomegaly. Ketone and albumin were present in the urine. A urine-reducing substances test was positive.  '
+  ANSWERS: >-
+    ["A.   Underfeeding  ","B.   Overfeeding  ","C.   Coeliac`s disease  ","D.  
+    Galactosemia  ","E.   Cow`s milk protein intolerance  ","F.   Pyloric
+    stenosis  ","G.   Oesophageal atresia  ","H.   Biliary atresia  ","I.  
+    Hirschsprung`s disease  "]
+  CORRECT: 'D.   Galactosemia  '
+- QUESTION_CODE: '1181'
+  QUESTION: '  For the following scenario, what is the most likely diagnosis?    A 13-year old boy presents with sudden onset of throbbing unilateral headache for 30 minutes. He describes it as a `lightning` sensation. He has aura, photophobia, phonophobia, nausea, vomiting but no periorbital pain, fever or neck stiffness. He has experienced irregular episodes for 3 years. There is no head injury. He has normal responses and no weakness or numbness of limbs. He orientates to time, place and person. There is no change of personality or deterioration of school performances. For the past medical history he is an asthmatic. The family history of headache is positive.  '
+  ANSWERS: >-
+    ["A.   Alcoholic headache  ","B.   Benign paroxysmal headache  ","C.   Brain
+    tumour  ","D.   Chronic tension headache  ","E.   Cluster headache  ","F.  
+    Facial pain  ","G.   Giant cell arteritis  ","H.   Meningitis  ","I.  
+    Migraine  ","J.   Psychogenic  "]
+  CORRECT: 'I.   Migraine  '
+- QUESTION_CODE: '852'
+  QUESTION: |2-
+      For each patient with headache, select the most likely diagnosis.    A 10 year old boy, admitted to the A&E due to sudden onset of severe headache. The pain is associated with nausea. It is worse on awakening. The pain is increased with coughing and straining. He also had a blurring of vision in this few months. Physical examination revealed loss of visual field.   
+       
+  ANSWERS: >-
+    ["A.   Cluster headache  ","B.   Drug Overdose  ","C.   Head trauma  ","D.  
+    Intra-cranial neoplasm  ","E.   Meningitis  ","F.   Migraine  ","G.  
+    Subarachnoid hemorrhage  ","H.   Temporal arteritis  ","I.   Tension type
+    headache  ","J.   Trigeminal neuralgia  "]
+  CORRECT: 'D.   Intra-cranial neoplasm  '
+- QUESTION_CODE: '475'
+  QUESTION: '  What is the most likely diagnosis in the following convulsions?    A mother with his 3 year-old son presented to AED complained of 10 min of loss of consciousness with twitching of 4 limbs at home. He was having an URTI and under GP medication. He has good past health. On physical examination, the boy was conscious, oriented, febrile with 39.1`C. There was no neck stiffness or any neurological signs.  '
+  ANSWERS: >-
+    ["A.   Simple febrile convulsion  ","B.   Complex febrile convulsion 
+    ","C.   Complex partial seizure  ","D.   Viral meningitis  ","E.  
+    Hypoglycaemic attack  ","F.   Vasovagal attack  ","G.   Status epilepticus 
+    ","H.   Medulloblastoma  ","I.   Bacterial meningitis  ","J.   Neuroblastoma
+    in the cerebrum  "]
+  CORRECT: 'A.   Simple febrile convulsion  '
+- QUESTION_CODE: '1114'
+  QUESTION: |2-
+      In a child with delayed developmental milestones, select the most likely cause.    CWY is a 2-year-old girl who is repeatedly admitted for multiple problems, such as repeated seizure, drowsiness, with marked developmental delay. She was born in KWH at full term by spontaneous vaginal delivery, and then live in Mainland China. Her birth history was unremarkable, and had normal growth and development. In the 9th month of age, she was noted to have episodic right sided seizure with arm and leg twitching, mouth twitching, eye blinking, drooling of saliva. Each episode lasted for 2 -3 minutes, and she had increasing frequency of attacks. She was started on antibiotics and antiepileptics, but she did not improve. She was later transferred to HK for further management.   
+        
+      On arrival, she was drowsy but arousable. She had repetitive movement of her 4 limbs with increased tone and brisk jerks. There was hepatomegaly of 7cm. Other systems were unremarkable. No dysmorphic features was noted.   
+        
+      For developmental examination, she does not have any social smile or facial response, with drooling of saliva. She has no head control, arm still in flexed position and there was fisting of the hand. There was no eye fixation or following objects. Distraction test showed absence of hearing.  
+  ANSWERS: >-
+    ["A.   Birth asphyxia  ","B.   Cerebral palsy  ","C.   Congenital
+    hypothyroidism  ","D.   Congenital rubella infection  ","E.   Down`s
+    syndrome  ","F.   Duchenne`s muscular dystrophy  ","G.   Intraventricular
+    haemorrhage  ","H.   Hyperbilirubinaemia  ","I.   Phenylketonuria  ","J.  
+    Post-Herpes Encephalitis  "]
+  CORRECT: 'J.   Post-Herpes Encephalitis  '
+- QUESTION_CODE: '1206'
+  QUESTION: |2-
+      For each patient with tall stature, select the most likely diagnosis.    A mentally retarded 8 year old boy presented with common cold. You noticed he has a tall, thin stature when he enters your consultation room. His mother told you that he has a history of failure to thrive and developmental delay. The child also suffered from nearsightedness. Physical examination revealed this child has long limbs, arachnodactyly, pectus excavatum, pes cavus, genu valgum and scoliosis.   
+      Further history revealed that this boy was born in a consanguineous marriage and one of his uncles, who suffered from severe visual impairment and psychiatric illness, died from heart attack at age 27.  
+  ANSWERS: >-
+    ["A.   Beckwith-Wiedemann syndrome  ","B.   Constitutional tall stature 
+    ","C.   Early puberty  ","D.   Gigantism  ","E.   Homocystinuria  ","F.  
+    Klinefelter syndrome  ","G.   Marfan syndrome  ","H.   Obesity  ","I.  
+    Precocious puberty  ","J.   Sotos syndrome  ","K.   Thyrotoxicosis  ","L.  
+    Weaver Smith syndrome  ","M.   XYY syndrome  "]
+  CORRECT: 'E.   Homocystinuria  '
+- QUESTION_CODE: '785'
+  QUESTION: |2-
+      For each patient with joint problem below, give the most likely diagnosis.    A 15 year-old girl with good past health was admitted to the ward with painful and swollen left knee for 2 months. The pain could be relieved by rest and analgesic. She also had pain over bilateral shoulders and right wrist for a few days, and swollen painful right index finger proximal interphalangeal joint (PIPJ) for 2 weeks. She had no systemic symptoms. She had no mucosal ulcers or rash. No lymph nodes or tendon nodules were palpable.   
+       
+  ANSWERS: >-
+    ["A.   Ankylosing spondylitis  ","B.   Henoch-Schonlein purpura  ","C.  
+    Juvenile chronic arthritis  ","D.   Lyme disease  ","E.   Psoriatic
+    arthritis  ","F.   Reactive arthritis  ","G.   Reiter`s syndrome  ","H.  
+    Septic arthritis  ","I.   Systemic lupus erythematosus  ","J.   Trauma  "]
+  CORRECT: 'C.   Juvenile chronic arthritis  '
+- QUESTION_CODE: '41'
+  QUESTION: '     The drug of choice for the treatment of   Mycoplasma pneumoniae   infection in a 7 year old child is     '
+  ANSWERS: >-
+    ["A.   cefuroxime  ","B.   chloramphenicol  ","C.   erythromycin  ","D.  
+    penicillin  ","E.   tetracycline  "]
+  CORRECT: 'C.   erythromycin  '
+- QUESTION_CODE: '1945'
+  QUESTION: '  Kiki is a 5 months old girl who has been well since birth. She presented to the Accident and Emergency Department with a 2-day history of fever, dry cough, runny nose and shortness of breath. Her mother also reported `noisy breathing`. On examination, she was found to be tachypnoeic and there was subcostal recession. Auscultation of the chest revealed prolonged expiratory phase, end-inspiratory crackles and occasional wheezing. She was admitted and managed with supportive treatment.    Which of the following is   NOT   a risk factor for developing RSV bronchiolitis?     '
+  ANSWERS: >-
+    ["A.   Age between 6 to 12 months  ","B.   Day care attendance  ","C.  
+    Maternal alcohol ingestion  ","D.   Low socio-economic status  ","E.  
+    Underlying congenital heart disease  "]
+  CORRECT: 'C.   Maternal alcohol ingestion  '
+- QUESTION_CODE: '1927'
+  QUESTION: |2-
+      A 1-year-old boy came with his parents to AED with inspiratory stridor and barking cough. He was later diagnosed to have croup.    Which of the following factors is   LEAST   helpful in determining severity of   
+      croup?     
+  ANSWERS: >-
+    ["A.   Presence of chest wall recession  ","B.   Level of consciousness 
+    ","C.   Presence of stridor at rest  ","D.   Presence of running nose 
+    ","E.   Presence of cyanosis  "]
+  CORRECT: 'D.   Presence of running nose  '
+- QUESTION_CODE: '2060'
+  QUESTION: |2-
+      A 7 year old girl presented to her GP with loud snoring at night. She was noted to have difficulty in breathing by her sister. She also experienced some mild daytime sleepiness.   
+        
+      On physical examination, her BMI was 24.7. Blood pressure, respiratory rate, heart rate and temperature were normal. Throat examination showed enlarged adenoids with normal uvula. There were no craniofacial abnormalities. Chest and cardiovascular examinations yielded normal findings.    Which of the following is the most suitable treatment for this patient?     
+  ANSWERS: >-
+    ["A.   CPAP  ","B.   Adenotonsillectomy  ","C.   Uvulopalatopharyngoplasty 
+    ","D.   BiPAP  ","E.   Azetazolamide  "]
+  CORRECT: 'B.   Adenotonsillectomy  '
+- QUESTION_CODE: '2368'
+  QUESTION: '  A three year-old boy presents with a three-day history of increasing cough, inspiratory stridor, and increased work of breathing. On examination, you confirm the inspiratory stridor and also note intercostal retractions and tachypnoea with a respiratory rate of 44 breathe/min.    Which of the following is   incorrect   regarding the cause and management of the probably diagnosis?     '
+  ANSWERS: >-
+    ["A.   Parainfluenza virus is the most likely cause  ","B.   Foreign body
+    aspiration is one of the cause, even there is absence of choking history 
+    ","C.   Adrenaline nebulization should be administered as a supportive
+    treatment  ","D.   A \"steeple sign\" will be found on a anterior-posterior
+    radiograph of the neck  ","E.   Antibiotics against staphylococcus aureus
+    are indicated  "]
+  CORRECT: 'E.   Antibiotics against staphylococcus aureus are indicated  '
+- QUESTION_CODE: '1048'
+  QUESTION: '  For each patients with murmur, select the most likely diagnosis.    A 2-month-old boy was referred to hospital of wheezing, poor feeding and poor weight gain during previous 2 weeks. Her routine examination had been normal. She was tachypnoeic and there was some sternal and intercostals recession. The pulses were normal. There was a thrill, a loud pansystolic murmur at the lower left sternal edge with no radiation to the axilla. The liver was enlarged, palpable at 4 cm below the costal margin. The chest X-ray showed cardiomegaly and increased pulmonary vascular markings.  '
+  ANSWERS: >-
+    ["A.   VSD  ","B.   ASD  ","C.   Coarctation of aorta  ","D.   Pulmonary
+    stenosis  ","E.   Mitral stenosis  ","F.   Aortic stenosis  ","G.  
+    Rheumatic heart disease  ","H.   Patent ductus arteriosus  ","I.   Tetralogy
+    of Fallot  ","J.   Transposition of great arteries  "]
+  CORRECT: 'A.   VSD  '
+- QUESTION_CODE: '1798'
+  QUESTION: |2-
+      For each patient with loss of consciousness, select the most likely diagnosis.    A 17-year-old boy was brought to the AED. He had shortness of breath, dizziness and blurred vision when he was running to school. He also noticed fast heart beat and chest pain. Then he lost his consciousness. A passenger-by took him into the hospital. His mother reported a family history of unexplained sudden death in which her uncle died at a young age.   
+      When he arrived at the AED, his pulse rate was 142 beat per minute with blood pressure of 80/42. ECG showed irregular broad QRS. An ejection systolic murmur of 3/6 was heard at the right upper sternal border which increase with standing .  
+  ANSWERS: >-
+    ["A.   Hypoglycaemia  ","B.   Orthostatic hypotension  ","C.   Long QT
+    syndrome  ","D.   Aortic stenosis  ","E.   Anaemia  ","F.   Vasovagal
+    syncope  ","G.   Supraventricular tachycardia  ","H.   Carotid sinus
+    syndrome  ","I.   Febrile convulsion  ","J.   Hypertropic cardiomyopathy  "]
+  CORRECT: 'J.   Hypertropic cardiomyopathy  '
+- QUESTION_CODE: '223'
+  QUESTION: '  For each patient with cough, select the most likely diagnosis.    A 14 year-old girl had dry cough for over 3 months. The cough was episodic, more severe during the morning and only last for several minutes. It was associated with frequent clearing of the throat, sneezing and runny nose. Over the counter anti-flu drugs were taken with mild improvement. Physical examination of the respiratory system was normal and the patient was afebrile.  '
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiectasis  ","C.   Bronchitis  ","D.  
+    Bronchiolitis  ","E.   Croup  ","F.   Epiglottitis  ","G.   Foreign body
+    aspiration  ","H.   Gastro-esophageal reflux  ","I.   Post nasal drip 
+    ","J.   Pneumonia  ","K.   Pulmonary oedema  ","L.   Tuberculosis  "]
+  CORRECT: 'I.   Post nasal drip  '
+- QUESTION_CODE: '1800'
+  QUESTION: '  For each of the following scenarios, which is the most likely diagnosis?    ADY is an 3-year-old girl, who presented to the A&E Department for a history of sore throat and fever for less than one day. Her mother complained that she was unable to take any food or drinks, and had a few coughs. On examination, she is alert, miserable-looking and acyanotic. She sits very still, is not responsive to verbal commands and refuses to speak. Her vital signs are as follows: T 39   o   C, RR 35/min (breathing with her mouth open), PR 154 bpm, BP 100/69. With careful attention, a whispering inspiratory stridor can be heard.  '
+  ANSWERS: >-
+    ["A.   Acute asthma  ","B.   Laryngomalacia  ","C.   Laryngeal foreign body 
+    ","D.   Angioedema  ","E.   Infectious mononucleosis  ","F.   Viral croup 
+    ","G.   Acute bronchitis  ","H.   Acute bronchiolitis  ","I.   Bacterial
+    tracheitis  ","J.   Acute epiglottitis  ","K.   Pneumonia  ","L.   Acute
+    pharyngitis  "]
+  CORRECT: 'J.   Acute epiglottitis  '
+- QUESTION_CODE: '217'
+  QUESTION: |2-
+      For each patient with chronic breathing difficulty, please select the most likely diagnosis.    A seven month old girl is hospitalized with 6 day history of increasing cough and wheezing that do not improve with nebulized bronchodilators. Her cough was dry coughing initially buy is now productive of green coloured mucus. She had a mild upper respiratory infection with cough and emesis a month ago and has since had intermittent respiratory symptoms. Her father had asthma as a child.   
+      On examination, she was alert, playful, and audibly wheezing. There were also bilateral diminished breath sounds with expiratory wheezes. Chest X ray showed severe hyperaeration. Bronchoscopy showed subglottic mass, laryngeal edema, inflammation of trachea and mainstem bronchi, viscous purulent secretion.  
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiectasis  ","C.   Bronchopulmonary dysplasia 
+    ","D.   Chronic bronchitis  ","E.   Cystic fibrosis  ","F.  
+    Gastroesophageal reflux  ","G.   Recurrent upper respiratory infection 
+    ","H.   Whooping cough  "]
+  CORRECT: 'E.   Cystic fibrosis  '
+- QUESTION_CODE: '2934'
+  QUESTION: |2-
+      An 8-year-old girl, with known history of glycogen storage disease type 1b, developed 2-day history of low-grade fever and shortness of breath, associated with noisy breathing. The child initially had rhinorrhea and productive cough with whitish sputum.   
+      On physical examination, she was lying on bed, tachpyneic but not toxic-looking. There was hoarseness and inspiratory stridor at rest, but no insucking of chest. Auscultation revealed bilateral vesicular breath sound.    What is the most likely diagnosis?     
+  ANSWERS: >-
+    ["A.   Tracheomalacia  ","B.   Viral croup  ","C.   Acute epiglottitis 
+    ","D.   Foreign body ingestion  ","E.   Bacterial tracheitis  "]
+  CORRECT: 'B.   Viral croup  '
+- QUESTION_CODE: '2501'
+  QUESTION: '  A 30 month-old boy with a past history of asthma presents with a 4-day history of wheeze, cough and shortness of breath. On physical examination he is conscious and alert with a temperature of 36.5   o   C, HR 141/min and BP 82/54 mmHg. His respiratory rate is 54 /min and SaO2 96% in 3L O   2   . Chest examination reveals bilateral diffuse wheeze with good air entry.    What is the most appropriate method of delivering short acting beta-agonists in this situation?     '
+  ANSWERS: >-
+    ["A.   Pressurized metered-dose inhaler (MDI) with valved spacer and
+    mouthpiece  ","B.   Pressurized metered-dose inhaler (MDI) with valved
+    spacer and face mask  ","C.   Nebulizer with mouthpiece  ","D.   Nebulizer
+    with face mask  ","E.   Dry powder inhaler (DPI)  "]
+  CORRECT: >-
+    B.   Pressurized metered-dose inhaler (MDI) with valved spacer and face
+    mask  
+- QUESTION_CODE: '157'
+  QUESTION: |2-
+         The following are known trigger factors for asthma except:   
+          
+  ANSWERS: >-
+    ["A.   Seafood  ","B.   Cow`s milk  ","C.   Cockroach  ","D.   Mould 
+    ","E.   Pollen  "]
+  CORRECT: 'B.   Cow`s milk  '
+- QUESTION_CODE: '2705'
+  QUESTION: |2-
+      A 9-month-old boy presented with 2 days of wheezy breathing, shortness of breathe and low-grade fever. He had preceding upper respiratory tract symptoms for a week. There is no personal or family history of atopy.   
+        
+      On physical examination, the patient is alert. Hydration status is satisfactory. He is tachypnic and there is slight insucking of chest when crying. Air entry is equal. There are diffuse rhonchi and crepitations over bilateral lung field. Chest X-ray is clear but there is hyperinflation.    Which of the following is the most likely diagnosis?     
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiolitis  ","C.   Croup  ","D.   Epiglottitis 
+    ","E.   Pneumonia  "]
+  CORRECT: 'B.   Bronchiolitis  '
+- QUESTION_CODE: '119'
+  QUESTION: |2-
+         The following statements on measles are correct EXCEPT   
+          
+  ANSWERS: >-
+    ["A.   it is caused by a paramyxovirus  ","B.   Koplik`s spots are
+    characteristic  ","C.   an incubation period of 4-7 days after contact 
+    ","D.   an maculopapular rash seen 4-5 days after onset of fever  ","E.  
+    higher mortality in malnourished children  "]
+  CORRECT: 'C.   an incubation period of 4-7 days after contact  '
+- QUESTION_CODE: '1331'
+  QUESTION: '  For each patient with hypertension, select the most relevant investigation to be performed.    During a regular check up at the student health service, a 8 year old boy was found to have a high blood pressure of 140/90mmHg. He was asymptomatic all along, with good past health. On cardiovascular exam, the femoral pulse was found to be weak. A systolic ejection murmur grade 3/6 was also heard over the left infraclavicular area radiating to the back. For initial workup, CBC, L/RFT was normal. The chest x-ray also showed a prominent left ventricle.  '
+  ANSWERS: >-
+    ["A.   None and reassure the patient  ","B.   Renin-Aldosterone Test 
+    ","C.   24 hour urine catecholamine  ","D.   USG kidney  ","E.   MRI kidney 
+    ","F.   MRA kidney  ","G.   MRI Adrenal  ","H.   Echocardiography  ","I.  
+    DMSA scan  ","J.   24 hour BP monitoring  ","K.   CT scan of the brain  "]
+  CORRECT: 'H.   Echocardiography  '
+- QUESTION_CODE: '875'
+  QUESTION: |2-
+      What is the most likely cause of patient`s chest pain?    CK is an 8-year-old boy presented with sudden onset of chest pain over the mid sternum region for 30 minutes. The pain was squeezing in nature and radiated to the left arm. He was pale and sweaty.   
+        
+      The past medical history includes an episode of high fever for 7 days when CK was 3 years old. The fever was associated with generalized body rash and cervical lymphadenopathy. No specific treatment was given.  
+  ANSWERS: >-
+    ["A.   Chest wall muscular Strains  ","B.   Costochondritis  ","C.  
+    Dissecting aortic aneurysm  ","D.   Gastro-oesophageal Reflux  ","E.  
+    Myocardial Infarction  ","F.   Pericarditis  ","G.   Pneumonia  ","H.  
+    Precordial catch syndrome  ","I.   Pulmonary embolism  ","J.   Spontaneous
+    Pneumothorax  "]
+  CORRECT: 'E.   Myocardial Infarction  '
+- QUESTION_CODE: '869'
+  QUESTION: |2-
+      What is the most likely diagnosis in each case?    A 16-year-old girl presented with swelling of her lower lip and her legs and hands. The swelling began in the morning after breakfast and was steadily worsening. She also developed shortness of breath and lightheadedness. Examination showed mild inspiratory stridor. She reported that she had had similar swelling in the past.   
+       
+  ANSWERS: >-
+    ["A.   Viral croup  ","B.   Foreign body inhalation  ","C.   Retrolaryngeal
+    abscess  ","D.   Hypertrophic tonsils  ","E.   Acute epiglottitis  ","F.  
+    Bacterial tracheitis  ","G.   Post-intubation edema  ","H.   Laryngeal
+    burns  ","I.   Diphtheria  ","J.   Angioedema  "]
+  CORRECT: 'J.   Angioedema  '
+- QUESTION_CODE: '1701'
+  QUESTION: |2-
+      For each patient with noisy breathing, select the most suitable diagnosis.    A 7-year-old boy developed runny nose and productive cough for 3 days. Sputum was white in colour. The boy also presented with noisy breathing and tachypnoea. At the night 2 hours before admission to hospital, he developed shortness of breath when he was asleep. Patient`s mother noticed noisy breathing too.   
+        
+      Upon arrival at the Accident & Emergency Department, he was afebrile, not toxic-looking, not cyanotic, respiratory rate 40 per minute and pulse rate 116 bpm. Examination of chest revealed equal air entry, but prolonged expiratory phase and scattered wheeze. Remainder of the examinations is unremarkable. Chest X-ray showed bilateral hyperinflated lungs and no consolidation.  
+  ANSWERS: >-
+    ["A.   Bronchiolitis  ","B.   Pertussis  ","C.   Foreign body inhalation 
+    ","D.   Croup  ","E.   Measles  ","F.   Drug allergy  ","G.   Acute
+    epiglottitis  ","H.   Aspiration of feeds  ","I.   Cystic fibrosis  ","J.  
+    Asthma  ","K.   Bacteria pneumonia  ","L.   Viral pneumonia  ","M.   Cardiac
+    failure  "]
+  CORRECT: 'J.   Asthma  '
+- QUESTION_CODE: '646'
+  QUESTION: '  What is the most likely diagnosis for the following patient?    Ma Fan, a 15-month-old girl, has developed mild upper respiratory tract infection symptoms two days ago with runny nose, coughing and sputum but no fever. Her mother doesn`t seek any medical advice about her daughter`s illness. When she gets back from work today, she found that Ma Fan is dyspneic with noisy breathing. The cough becomes "barking" in nature with whitish sputum production. She becomes very irritable and unwilling to feed.  '
+  ANSWERS: >-
+    ["A.   Acute epiglottitis  ","B.   Viral croup  ","C.   Foreign body
+    inhalation  ","D.   Asthma  ","E.   Acute bronchiolitis  ","F.  
+    Tuberculosis  ","G.   Pneumonia  "]
+  CORRECT: 'B.   Viral croup  '
+- QUESTION_CODE: '1579'
+  QUESTION: '  For each patient with respiratory distress, select the most likely diagnosis.    A term baby, weight 3.6 kg, was found to be cyanotic right after birth. He is tachypnic, with mild retraction of the chest wall, and occasional grunting. The baby`s mother is a diabetic. Chest x-ray shows prominent central vascular markings, fluid in the lung fissures, and overaeration. Amniotic fluid was clear.  '
+  ANSWERS: >-
+    ["A.   Acute epiglottitis  ","B.   Asthma  ","C.   Bronchiolitis  ","D.  
+    Bronchopulmonary dysplasia  ","E.   Croup  ","F.   Diaphragmatic hernia 
+    ","G.   Drug allergy  ","H.   Foreign Body Inhalation  ","I.   Meconium
+    aspiration pneumonia  ","J.   Metabolic acidosis  ","K.   Milk aspiration 
+    ","L.   Pneumothorax  ","M.   Pulmonary hypoplasia  ","N.   Respiratory
+    distress syndrome  ","O.   Transient tachypnea of the new born  "]
+  CORRECT: 'O.   Transient tachypnea of the new born  '
+- QUESTION_CODE: '2800'
+  QUESTION: '  TS Tam is a 10-month-old female infant presented with 1 day`s history of noisy breathing. She had on and off fever up to 38 degree for 3 days, which was associated with running nose with frequent nose scratching, wet cough, clear eye discharge and reduced in playfulness. There was no drooling of saliva. Feeding was reduced and she vomited once prior to presentation. She did not have diarrhoea or urinary symptoms. Her sister also had a cough recently. Upon physical examination she was crying vigorously and pyrexic. Blood pressure was 129/82, heart rate 182/min, and SaO2 was 98% in room air. She had good capillary refill. Apart from inspiratory stridor, the rest of her respiratory examination was unremarkable. Nasophargeal aspirate yiedled RSV.    What is the most appropriate next step in managing TS?     '
+  ANSWERS: >-
+    ["A.   Reassurance and discharge the patient as the symptoms are mild 
+    ","B.   Give the patient cool mist  ","C.   Give the patient symptomatic
+    treatment  ","D.   Give systemic corticosteroid and then symptomatic
+    treatment  ","E.   Give nebulized adrenaline and then symptomatic treatment 
+    "]
+  CORRECT: 'D.   Give systemic corticosteroid and then symptomatic treatment  '
+- QUESTION_CODE: '44'
+  QUESTION: '  A 2-year-old boy is brought to you with cough and fever. Physical examination reveals a toxic, ill boy with fever, dyspnea, and decreased breath sounds in the left lower lung field. Chest x-rays reveal an infiltrate in the left lower lobe. Leukocyte count is 19,000/mm3 with 54% neutrophils, 18% band forms, and 28% lymphocytes.    Which of the following is the most likely diagnosis?     '
+  ANSWERS: >-
+    ["A.   Viral pneumonia  ","B.   Tuberculosis  ","C.   Foreign body in the
+    left main stem bronchus  ","D.   Pneumococcal pneumonia  ","E.   Mycoplasma
+    pneumonia  "]
+  CORRECT: 'D.   Pneumococcal pneumonia  '
+- QUESTION_CODE: '2869'
+  QUESTION: '  A 24-day-old girl presents with noisy breathing that is worse during feeding and crying. There has been no fever, vomiting or diarrhea. Her mother also reports the baby looks blue sometimes during feeding, and is taking longer to feed. The pattern of urination and bowel opening has not changed. On physical examination, the baby is afebrile with a respiratory rate of 48/min and pulse of 120 beats/min. Capillary refill time is less than 2 seconds. Subcostal recession is observed. An inspiratory stridor is also heard.    Which of the following investigations is NOT necessary?     '
+  ANSWERS: >-
+    ["A.   Oxygen saturation monitoring  ","B.   Blood culture  ","C.   Chest
+    X-ray  ","D.   Flexible bronchoscopy  ","E.   Echocardiogram  "]
+  CORRECT: 'B.   Blood culture  '
+- QUESTION_CODE: '726'
+  QUESTION: '  An 18-year old boy presented with continuous fatigue. He usually went to bed at about 4:00a.m. He awoke late in the morning and did not go to school until afternoon; his school performance was affected. He complained of sleep onset insomnia and extreme difficulty waking up in morning. He was also slightly anxious because of the difficulty he encountered in falling asleep. Sleep hygiene is good. During these years he was not suffering from any stress. It is diagnosed that he is suffering from delayed sleep phase.    For this patient with sleep problem, what is the most appropriate treatment?     '
+  ANSWERS: >-
+    ["A.   Reassurance and no management is needed  ","B.   Regain better
+    sleeping habit by switching to sleep earlier gradually  ","C.   Psychiatric
+    counseling  ","D.   Quite sleeping place  ","E.   Sleeping pills  "]
+  CORRECT: 'B.   Regain better sleeping habit by switching to sleep earlier gradually  '
+- QUESTION_CODE: '1230'
+  QUESTION: |2-
+      For each patient with stridor, select the most likely diagnosis.    Yan Yee, a 3 year-old girl, was admitted to the A&E due to high fever and a severe sore throat and slight cough since that morning. Her parents said the girl refused to eat or drink anything and she drooled. The patient had good past health.   
+      In the hospital, her temperature was recorded to be 38.6oC and she looked ill. She was reluctant to speak and she maintained her neck in a hyperextended manner. Yan yee was breathing with increased effort with her mouth opened. On auscultation, a soft and whispering stridor was heard. The house officer had examined her ear with no abnormality found and was now attempting to examine Yan yee`s throat. However, he was stopped by the attending senior medical officer.   
+       
+  ANSWERS: >-
+    ["A.   Angioedema  ","B.   Asthma  ","C.   Bilateral cord palsy  ","D.  
+    Bronchiolitis  ","E.   Diphtheria  ","F.   Epiglottitis  ","G.   Foreign
+    body aspiration  ","H.   Haemangioma in the trachea  ","I.   Laryngeal
+    tumour  ","J.   Laryngomalacia  ","K.   Retropharyngeal abscess  ","L.  
+    Spasmodic croup  ","M.   Trauma to larynx  ","N.   Tonsillitis  ","O.  
+    Viral croup  "]
+  CORRECT: 'F.   Epiglottitis  '
+- QUESTION_CODE: '891'
+  QUESTION: '  For each patient presenting with chest pain, what is the MOST LIKELY diagnosis?    A 16 year old Hispanic boy presents to the emergency room complaining of right chest pain for one day. The pain is sudden after physical education lesson at school and sharp. It is not associated with exertion, worsened when he takes deep breath, and is relieved by shallow breathing. It is followed by acute shortness of breath. He has had symptoms like this before one year ago, has had no recent trauma, and has no significant medical history. In examination you note he is afebrile, has respiratory rate of 25 breaths per minute, a normal blood pressure, and slight tachycardia of 100 bpm. The lung examination reveals diminished air entry in the right lung. His oxygen saturation on 2L/min nasal cannula is 87% and the remainder of his examination is normal.  '
+  ANSWERS: >-
+    ["A.   Sickle cell anemia crisis  ","B.   Acute pericarditis  ","C.   Aortic
+    dissection  ","D.   Bacterial pneumonia  ","E.   Musculoskeletal trauma 
+    ","F.   Myocardial infarction  ","G.   Pneumothorax  ","H.   Tietze`s
+    syndrome  ","I.   Unstable angina  ","J.   Viral pneumonia  "]
+  CORRECT: 'G.   Pneumothorax  '
+- QUESTION_CODE: '1801'
+  QUESTION: '  For each of the following scenarios, which is the most likely diagnosis?    ARE is a 2-year-old girl, who presented to the A&E Department for a history of cough and fever for less than a day. Her mother complained that she had reduced feeding, and loud coughs with thick sputum production. She developed strange noises when crying a few hours ago. On examination, she is very ill and miserable-looking. Her vital signs are as follows: T 39.5   o   C, RR 35/min, PR 154 bpm, BP 110/66. When she is irritated, she cries with a hoarse voice. Harsh inspiratory stridor can be heard easily at all times.  '
+  ANSWERS: >-
+    ["A.   Acute asthma  ","B.   Laryngomalacia  ","C.   Laryngeal foreign body 
+    ","D.   Angioedema  ","E.   Infectious mononucleosis  ","F.   Viral croup 
+    ","G.   Acute bronchitis  ","H.   Acute bronchiolitis  ","I.   Bacterial
+    tracheitis  ","J.   Acute epiglottitis  ","K.   Pneumonia  ","L.   Acute
+    pharyngitis  "]
+  CORRECT: 'I.   Bacterial tracheitis  '
+- QUESTION_CODE: '1254'
+  QUESTION: |2-
+      For each patient with cough lasting less than 4 weeks, select the most likely diagnosis.    LCY, a 15 months old male patient presented to the accident and emergency department with his father who noticed shortness of breath in him since afternoon. 2 days prior to his presentation, he had been having runny nose with colorless mucus and also a cough with sputum sound. However, he was unable to expel the sputum. His father also noticed that his symptoms were more severe at night. On examination, there is no fever and wheezing is heard over bilateral lung fields. LCY has also been diagnosed with eczema since birth, and this is his second episode of shortness of breath.   
+       
+  ANSWERS: >-
+    ["A.   Acute asthma  ","B.   Acute bronchiolitis  ","C.   Acute
+    epiglottitis  ","D.   Aspiration pneumonia  ","E.   Bacterial pneumonia 
+    ","F.   Viral Croup  ","G.   Habit cough  ","H.   Inhaled foreign body 
+    ","I.   Pertussis  ","J.   Spasmodic croup  ","K.   Tuberculosis  "]
+  CORRECT: 'A.   Acute asthma  '
+- QUESTION_CODE: '2033'
+  QUESTION: '  What is the most likely diagnosis?    PH Lau is a 3 year-old boy presenting to the A/E Department for 2-day history of productive cough and fever. He also experienced running nose, lethargy and vomiting of undigested food for the past two days. The maximum tympanic temperature measured at home was 37.8oC. On the morning of emergency admission to the hospital, PH Lau developed shortness of breath with wheeze and was unable to speak in full sentences. History taking revealed that his mother, who had asthma, experienced upper respiratory tract infection symptoms recently.  '
+  ANSWERS: >-
+    ["A.   Allergic rhinitis  ","B.   Asthmatic   attack  ","C.   Bacterial  
+    tracheitis  ","D.   Bronchiolitis  ","E.   Bronchitis  ","F.   Croup 
+    ","G.   Cystic fibrosis  ","H.   Epiglottitis  ","I.   Pneumonia  ","J.  
+    Upper respiratory tract infection  "]
+  CORRECT: 'B.   Asthmatic   attack  '
+- QUESTION_CODE: '1352'
+  QUESTION: '  What is the most appropriate next step of management?    A 6 year old boy comes to your clinic complaining of recurrent cough in the recent 6 months. The cough is non productive, it sometimes wakes the patient up at night. The cough is also exacerbated when the child is running or playing sports, and is sometimes associated with wheeze and shortness of breath. The child and his elder brother have allergic rhinitis since very young age. The child is afebrile. There is no family history of asthma. Immunization is up to date.  '
+  ANSWERS: >-
+    ["A.   Admit the patient to intensive care unit  ","B.   Arrange a bronchial
+    challenge test for the patient  ","C.   Arrange urgent intubation  ","D.  
+    Give antibiotics  ","E.   Give antivirals  ","F.   Give intravenous
+    anticholinergic  ","G.   Give nebulized adrenaline to the patient  ","H.  
+    Measure the patient`s pre- and post-bronchodilator peak expiratory flow
+    rate  ","I.   Order a chest X ray  ","J.   Take a throat swab for culture
+    and sensitivity  ","K.   Take blood for culture and sensitivity  "]
+  CORRECT: >-
+    H.   Measure the patient`s pre- and post-bronchodilator peak expiratory flow
+    rate  
+- QUESTION_CODE: '2525'
+  QUESTION: '  A 10 year-old boy with a history of asthma has had good control of his asthma with daily inhaled-corticosteroids and inhaled-salbutamol as required. However, in the past year, the number of acute exacerbations have occurred more frequently and in greater severity. On discussion with his mother, it was revealed she had self-stopped his daily preventer medications for fear of the long-term side-effects.    Which of the following concerns about inhaled corticosteroids is   not       supported by evidence?     '
+  ANSWERS: >-
+    ["A.   Bone-mineral density can be affected with the use of high-dose ICS 
+    ","B.   Low-dose ICS is associated with a permanent decrease in growth
+    velocity if used during puberty  ","C.   Low-dose ICS is associated with a
+    decrease in final height attainment if used throughout puberty  ","D.  
+    Adrenal suppression may be a side-effect of ICS for children who are in
+    shock or decreased level of consciousness  ","E.   Oral candidiasis is a
+    side-effect of ICS therapy.  "]
+  CORRECT: >-
+    B.   Low-dose ICS is associated with a permanent decrease in growth velocity
+    if used during puberty  
+- QUESTION_CODE: '2050'
+  QUESTION: '     Which of the following is   NOT   a manifestation of Kawasaki disease?     '
+  ANSWERS: >-
+    ["A.   Coronary aneurysm  ","B.   Aseptic meningitis  ","C.   Arthralgia and
+    arthritis  ","D.   Renal calculi  ","E.   Hydrops of gallbladder  "]
+  CORRECT: 'D.   Renal calculi  '
+- QUESTION_CODE: '2555'
+  QUESTION: '  An 11 year-old girl attends your clinic with persistent fever up to 39OC for 4 days. She complains of sore throat and cough with yellow sputum.    Which following physical sign can most reliably RULE OUT a severe lower respiratory tract infection?     '
+  ANSWERS: >-
+    ["A.   Grunting  ","B.   Nasal flaring  ","C.   Intercostal indrawing 
+    ","D.   Tachypnea  ","E.   Wheeze  "]
+  CORRECT: 'D.   Tachypnea  '
+- QUESTION_CODE: '2194'
+  QUESTION: '  A 10-year-old boy with history of asthma presented with increasing cough, yellowish sputum for 2 months and fever for 1 day. He also complained of shortness of breath and wheezing, but his appetite was good with no weight loss and no night sweat. There was no previous history of tuberculosis. On physical examination, his heart rate was 100/min and respiratory rate was 25/min, SaO2 was 96% in room air. Chest expansion was symmetrical, percussion notes were resonant, but crepitation over the right lower zone and bilateral expiratory wheeze could be heard on auscultation.    Which of the followings is the most appropriate next step of investigation or management?     '
+  ANSWERS: >-
+    ["A.   Chest X-ray and collect sputum specimen for culture.  ","B.  
+    Bronchoscopy.  ","C.   Advice the child to avoid exercise as it may trigger
+    asthma attack.  ","D.   Give oxygen supplement via nasal cannula.  ","E.  
+    Start intravenous hydrocortisone and nebulised beta2-agonist.  "]
+  CORRECT: 'A.   Chest X-ray and collect sputum specimen for culture.  '
+- QUESTION_CODE: '2707'
+  QUESTION: '  A 18-month-old girl, YanYan, presents with fever and cough for 2 days. Her cough was non-productive, `barking` in nature. Her condition deteriorated after 1 day and was associated with shortness of breath and hoarsening of voice. Physical examination shows her Temp 39.8C, HR 144 bpm, RR 44/min. She has loud stridor and shows moderate respiratory distress with chest wall recession. Auscultation of chest shows reduced air entry on both sides and with inspiratory stridor.    For this patient, what is the best treatment option for her condition?     '
+  ANSWERS: >-
+    ["A.   Monitor vitals, give panadol  ","B.   Monitor vitals only and
+    observe  ","C.   Monitor vitals, give panadol and oral dexamethasone 
+    ","D.   Monitor vitals, give panadol, oral dexamethasone and nebulized
+    epinephrine  ","E.   Monitor vitals, give panadol, oral dexamethasone and
+    inhaled salbutamol  "]
+  CORRECT: >-
+    D.   Monitor vitals, give panadol, oral dexamethasone and nebulized
+    epinephrine  
+- QUESTION_CODE: '818'
+  QUESTION: |2-
+      For each patient with murmur, select the most likely diagnosis.    CTM is a male preterm infant born at 34 weeks of gestation 3 days ago. The antenatal course was uneventful. He is feeding well. On routine examination, he is alert, afebrile and with no pallor or cyanosis. Respiratory rate is 52/min. A bounding pulse and a continuous murmur are noted. Other examinations are unremarkable.   
+       
+  ANSWERS: >-
+    ["A.   Atrial septal defect  ","B.   Ventricular septal defect  ","C.  
+    Pneumonia  ","D.   Patent ductus arterious  ","E.   Pulmonary stenosis 
+    ","F.   Tuberculosis  ","G.   Bronchiolitis  ","H.   Tetralogy of Fallot 
+    ","I.   Transposition of the great arteries  ","J.   Infective endocarditis 
+    "]
+  CORRECT: 'D.   Patent ductus arterious  '
+- QUESTION_CODE: '2161'
+  QUESTION: '  What is the most important treatment in this child with wheezing and shortness of breath?    A 15-month-old child comes into the A&E department with severe shortness of breath and wheezing. He had some coryzal symptoms and low grade fever for 2 days. He was previously well. His father has childhood asthma and his mother has allergic rhinitis. He has a body temperature of 39oC. His respiratory rate was 50/min and SpO2 90%.  '
+  ANSWERS: >-
+    ["A.   Beta2 agonist  ","B.   Anticholinergic bronchodilator  ","C.  
+    Inhaled steroids  ","D.   Long acting Beta2 bronchodilators  ","E.   Oxygen
+    supplement  ","F.   Methylxanthines  ","G.   Leukotriene inhibitors  ","H.  
+    Oral steroids  "]
+  CORRECT: 'E.   Oxygen supplement  '
+- QUESTION_CODE: '1248'
+  QUESTION: '  For each patient presented with breathlessness, select the most appropriate diagnosis.    A 6-year-old boy has gradually increased shortness of breath and was brought to the A&E department. He has 4 days history of fever with a productive cough. He has obvious respiratory distress and was put on an oxygen mask upon admission. The child denied any foreign body ingestion. Last week, his elder brother also developed similar symptoms but it was subsided a few days afterwards. He was actually prescribed antibiotics on day 2 and there was no improvement.  '
+  ANSWERS: >-
+    ["A.   Lung carcinoma  ","B.   Asthma  ","C.   Foreign body inhalation 
+    ","D.   Lobar pneumonia  ","E.   Pneumothorax  ","F.   Acute epiglottis 
+    ","G.   Infectious mononucleosis  ","H.   Viral pneumonia  ","I.  
+    Bronchitis  ","J.   Viral croup  ","K.   Tuberculosis  ","L.   Pulmonary
+    embolism  ","M.   Post-nasal drip  ","N.   COPD  ","O.   Pleural effusion 
+    "]
+  CORRECT: 'H.   Viral pneumonia  '
+- QUESTION_CODE: '946'
+  QUESTION: |2-
+      For each patient with noisy breathing, select the most likely diagnosis.    5 year-old girl with history of allergic rhinitis complained of sudden onset of shortness of breath, cough for 1 week and was then sent to the A&E department. She also presented with wheezy breathing, nocturnal cough, runny nose and sputum. She has no history of foreign body inhalation. According to the patient`s mother, patient often presents with exercise-induced cough. Since 2 year-old, patient often presents with upper respiratory tract infections and cough up to 2 times per month while each episode last at least 1 week. This occurs especially during change of weather.   
+        
+      For her past medical history, she was born full term by normal spontaneous delivery. Antenatal and postnatal were uneventful. Her immunization is up-to-date and she enjoys good past health.   
+        
+      On physical examination, she appears generally well and not toxic-looking. She was afebrile. There were no signs of respiratory distress. On chest examination, all are unremarkable except mildly reduced breath sounds, prolonged expiratory phase and expiratory wheeze can be heard on auscultation.  
+  ANSWERS: >-
+    ["A.   Angioedema  ","B.   Asthma  ","C.   Bronchiolitis  ","D.   Cystic
+    fibrosis  ","E.   Diphtheria  ","F.   Epiglottitis  ","G.   Foreign body
+    inhalation  ","H.   Laryngomalacia  ","I.   Measles  ","J.   Viral croup  "]
+  CORRECT: 'B.   Asthma  '
+- QUESTION_CODE: '813'
+  QUESTION: '  For each of the following scenario, choose the most likely diagnosis.    A 2-year-old child with good past health developed a chronic cough for 6 weeks. It was not barking in nature. Yellowish sputum was found. No runny nose was noted. He had been given antibiotics repeatedly for pneumonia during A&E admissions in past 6 weeks. On auscultation, there was reduced air entry to the right side of the chest while the air entry in the left was normal. No added sound was heard. CXR showed hyperlucency in right lower zone and slight mediastinal shift to the left.  '
+  ANSWERS: >-
+    ["A.   Bronchiolitis  ","B.   Tuberculosis  ","C.   Asthma  ","D.   Foreign
+    body inhalation  ","E.   Bronchitis  ","F.   Viral croup  ","G.  
+    Epiglottis  ","H.   Congenital lung anomaly  ","I.   Cystic fibrosis 
+    ","J.   Bronchiectasis  ","K.   Allergic rhinitis  "]
+  CORRECT: 'D.   Foreign body inhalation  '
+- QUESTION_CODE: '1379'
+  QUESTION: '  For each patient with prolonged cough (>4 weeks), select the most likely diagnosis.    A 2-month-old infant, was brought in by her mother, complaining 1 month history of dry cough. There was no diurnal variation of the cough. 2 days ago it changed from an intermittent cough to several severe coughing spells. The cough was preceded by 1 week history of runny nose with no fever. The mother had a similar coughing spell at that time associated with vomiting and now recovered.  '
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiolitis  ","C.   Cystic fibrosis  ","D.  
+    Foreign body aspiration  ","E.   Gastroesophageal reflux  ","F.   Viral
+    croup  ","G.   Pertussis  ","H.   Pneumonia  ","I.   Sinusitis  ","J.  
+    Tuberculosis  "]
+  CORRECT: 'G.   Pertussis  '
+- QUESTION_CODE: '3079'
+  QUESTION: '  A 7 year-old girl, Cheung SC, was admitted to the A&E department due to persistent fever for a week with temperature up to 40C. There was productive cough with yellowish sputum and malaise. There was, however, no coryzal symptoms, no rash, no neck pain, no GI and urinary symptoms. Her father and sister have URTI symptoms. She has been taking Augmentin given by private GP for 3 days prior to admission. Physical examination shows that she is not in distress but there is reduce air entry, dullness on percussion and increased vocal resonance over the right lower zone. CXR shows right lower zone haziness. Her development is normal and immunization is up-to-date.    Which of the following investigations is most likely to give positive result?     '
+  ANSWERS: >-
+    ["A.   Blood culture  ","B.   Pneumococcal urinary antigen test  ","C.   CT
+    thorax for abscess  ","D.   NPA for viral antigen  ","E.   Acid-fast stain
+    for morning sputum  "]
+  CORRECT: 'B.   Pneumococcal urinary antigen test  '
+- QUESTION_CODE: '2672'
+  QUESTION: '  A 27-month-old girl develops fever, cough for 5 days followed by SOB. Systemic review normal. Physical examination shows temperature 38.6oC, Left lung reduced chest expansion, apex deviated Right to MCL, Left lower zone dull on percussion, AE decreased and bronchial BS heard. No added sound. Right lung normal.    Which of the following is the most suitable treatment for the patient?     '
+  ANSWERS: >-
+    ["A.   Penicillin  ","B.   Cefuroxime  ","C.   Cefotaxime  ","D.  
+    Erythromycin  ","E.   Supportive treatment is enough  "]
+  CORRECT: 'A.   Penicillin  '
+- QUESTION_CODE: '2786'
+  QUESTION: '     Which of the following is true regarding the pneumococcal vaccine in Hong Kong?     '
+  ANSWERS: >-
+    ["A.   Pneumococcal vaccine is not covered by the universal vaccination
+    programme in Hong Kong.  ","B.   The pneumococcal vaccine covered by the
+    universal vaccination programme is the 7-valent conjugate vaccine.  ","C.  
+    Pneumococcal vaccines are given at the age of 2 month, 4 month and 6 month. 
+    ","D.   Pneumococcal vaccine is effective in preventing all pneumococcal
+    invasive diseases.  ","E.   None of the above.  "]
+  CORRECT: >-
+    C.   Pneumococcal vaccines are given at the age of 2 month, 4 month and 6
+    month.  
+- QUESTION_CODE: '2704'
+  QUESTION: '  A 27-month-old female developed inspiratory stridor and respiratory distress. Her O   2   saturation was 93%, and also has insucking chest and drowsiness. She was later transferred to PICU. This episode was resolved after nasopharyngeal tube was inserted for relieving of her upper airway obstruction. The child was later referred to ENT, and laryngoscopy revealed laryngomalacia.    Which of the following management plan is   LEAST   appropriate for her?     '
+  ANSWERS: >-
+    ["A.   Anticipate supraglottoplasty to tighten support structures and remove
+    excess tissue on the epiglottis if develop severe interference with
+    ventilation compromising life  ","B.   Anticipate and treat GERD disease can
+    also help in the treatment of laryngomalacia, since gastric contents can
+    cause the back part of the larynx to swell and collapse even further into
+    the airway  ","C.   Since the prevalence of synchronous airway lesions (such
+    as tracheomalacia, bronchomalacia, subglottic stenosis) in children
+    diagnosed with laryngomalacia is extremely high, all children with
+    laryngomalacia should be evaluated with bronchoscopy to rule out synchronous
+    airway lesions  ","D.   Full airway examination is advised for this child if
+    she develop symptoms severe enough to warrant possible surgical
+    intervention  ","E.   Laryngomalacia is considered as a benign cause of
+    inspiratory stridor and possibly represents a phase of normal development of
+    the larynx. Symptoms usually disappear as the child ages. Management is
+    largely conservative.  "]
+  CORRECT: >-
+    C.   Since the prevalence of synchronous airway lesions (such as
+    tracheomalacia, bronchomalacia, subglottic stenosis) in children diagnosed
+    with laryngomalacia is extremely high, all children with laryngomalacia
+    should be evaluated with bronchoscopy to rule out synchronous airway
+    lesions  
+- QUESTION_CODE: '517'
+  QUESTION: |2-
+      For each patient with heart murmur, what is the most likely diagnosis?    A 3 day-old boy who had no antenatal check up developed central cyanosis at six hours after birth. The cyanosis became profound on the 2nd day of life.   
+      General exam showed central cyanosis, tachycardia and tachypnoea. BP was normal and no murmur. Respiratory exam showed bilateral normal air entry, chest expansion, percussion and vesicular breath sounds. CXR showed increased pulmonary vascular marking   
+      (He developed ejection systolic murmur after pulmonary artery banding when he was 14, please focus on the finding mentioned above)    
+  ANSWERS: >-
+    ["A.   Atrial septal defect  ","B.   Coarctation of aorta  ","C.  
+    Eisenmenger`s syndrome  ","D.   Mitral valve prolapse  ","E.   Mitral valve
+    regurgitation  ","F.   Mitral valve stenosis  ","G.   Patent ductus
+    arteriosus  ","H.   Tetralogy of Fallot  ","I.   Transposition of great
+    arteries  ","J.   Ventricular septal defect  "]
+  CORRECT: 'I.   Transposition of great arteries  '
+- QUESTION_CODE: '1492'
+  QUESTION: '  For each patient with chest discomfort, select the most likely diagnosis.    Mary is a 10-year-old girl, who lives in the Mainland and travels to Hong Kong with her parents, presented with central chest pain. The chest pain is described to be worse on inspiration or lying flat, and it is relieved by sitting forward. It is also associated with a painful hip, knee and ankle on the left side. A erythematous rash is noticed on the trunk, thighs and arms as well as some painless small subcutaneous nodules on the extensor surfaces of joints. According to her mother, Mary had an episode of scarlet fever 3 weeks ago, which was reported to have resolved already.  '
+  ANSWERS: >-
+    ["A.   Pneumonia  ","B.   Pneumothorax  ","C.   Pleuritis  ","D.   Pulmonary
+    embolism  ","E.   Myocardial infarction  ","F.   Pericarditis  ","G.  
+    Gastro-esophageal reflux (GERD)  ","H.   Peptic ulcer disease  ","I.   Rib
+    fracture  ","J.   Herpes zoster  "]
+  CORRECT: 'F.   Pericarditis  '
+- QUESTION_CODE: '1607'
+  QUESTION: |2-
+      In this situation, what is the most likely diagnosis?    A primary 4 girl who enjoyed good past health presented with 3rd episode of sudden loss of consciousness after prolong standing in playground. She suddenly felt suffocated, hot, mild headache and dizziness, sweating and palpitation, and then her fainted. She recovered after few minutes. There were irregular palpitations and chest pain, but no associated head injury, abnormal movement, incontinence, tongue biting, drooling of saliva in the event. She had taken breakfast before going to school. Besides, there was no amnesia after the episode. 3 episodes were very similar.   
+        
+      Physical examination was unremarkable. Investigations including complete blood count, renal and liver function tests, plasma glucose, CXR, CT brain and EEG were normal. ECG showed delta wave, widened QRS complex and short PR interval.  
+  ANSWERS: >-
+    ["A.   Hysterical syncope  ","B.   Wolff-Parkinson-White syndrome  ","C.  
+    Juvenile myoclonic epilepsy  ","D.   Vasovagal syncope  ","E.   Coarctation
+    of aorta  ","F.   Hypoglycemia  ","G.   Brain tumour  ","H.   Benign
+    paroxysmal vertigo  ","I.   Orthostatic hypotension  ","J.   Aortic
+    stenosis  "]
+  CORRECT: 'B.   Wolff-Parkinson-White syndrome  '
+- QUESTION_CODE: '2638'
+  QUESTION: '  Ka Yiu is a 71-day old infant with unremarkable birth and past medical history admitted for 5-day history of on and off fever with no chills and rigors. It is associated with generalized maculopapular rash, lip fissures and strawberry tongue, non-pitting edema on extremities, bilateral conjunctivitis but there`s no cervical lymphadenopathy. Blood test showed increased C-reactive protein and echocardiogram showed mild pericardial effusion.    Which of the following is correct regarding the diagnosis of this patient?     '
+  ANSWERS: >-
+    ["A.   The most important complication of this disease is coronary artery
+    aneurysm  ","B.   Corticosteroid is a common first-line treatment of the
+    disease  ","C.   Caucasian is the most commonly affected ethnic group 
+    ","D.   The patient is suffering form scarlet fever  ","E.   Inflammation of
+    BCG vaccination site is a diagnostic criteria  "]
+  CORRECT: >-
+    A.   The most important complication of this disease is coronary artery
+    aneurysm  
+- QUESTION_CODE: '2661'
+  QUESTION: '  A 20-month-old boy presented with 3-day history of shortness of breath and decreased oral intake. It is associated with increased irritability, reduced playfulness and frequent sweating. He has no fever and no travel history. Echocardiogram shows dilated left atrium and ventricle, severe mitral insufficiency, pulmonary hypertension and bilateral pleural effusion.    Which of the following is the most appropriate management for this patient?     '
+  ANSWERS: >-
+    ["A.   Prompt treatment with antibiotics  ","B.   Workup for his primary
+    problem including viral study, carnitine profile and urine organic acid 
+    ","C.   Measurement of highly sensitive troponin T  ","D.   Give
+    anti-inflammatory agents  ","E.   Coronary angiogram  "]
+  CORRECT: >-
+    B.   Workup for his primary problem including viral study, carnitine profile
+    and urine organic acid  
+- QUESTION_CODE: '2941'
+  QUESTION: '  11-month old girl admitted to A&E, presented with breathing difficulty and wheezing for 1 day. On physical examination, there is a low grade fever. Respiratory rate is 80/min and she is in respiratory distress with chest recession. Generalized wheeze is found over the chest.    Which of the following regarding bronchiolitis is most accurate?     '
+  ANSWERS: >-
+    ["A.   mostly present in children <2, with the majority associated with RSV,
+    present with shortness of breath, productive cough, expiratory wheeze,
+    coarse crackles  ","B.   Routine investigations include PCR analysis of the
+    NPA, chest X-ray, pulse oximetry and blood gas analysis  ","C.   mostly
+    present in children <1, with the majority associated with RSV, present with
+    shortness of breath, dry cough, expiratory wheeze, fine crackles  ","D.  
+    Bronchiolitis obliterans is a severe, but reversible form of constrictive
+    bronchiolitis. RSV is the most common viral cause.  ","E.   Palivizumab is
+    an intravenous form of monoclonal antibody to RSV which can be given to
+    high-risk preterm infant  "]
+  CORRECT: >-
+    C.   mostly present in children <1, with the majority associated with RSV,
+    present with shortness of breath, dry cough, expiratory wheeze, fine
+    crackles  
+- QUESTION_CODE: '2572'
+  QUESTION: '  A 15 year-old boy presents with fever, cough and sore throat for one day. The fever was up to 39   o   C but there was no chills or rigors. There is no runny nose, sputum or difficulty in swallowing. He had no known drug allergy. Enlarged tonsils with exuduate were noted in examination. There was no rash or other significant findings.    What would be the optimal initial managements for this patient?     '
+  ANSWERS: >-
+    ["A.   Penicillin for 10 days  ","B.   Rapid Antigen test  ","C.  
+    Paracetamol and reassess after 1 day  ","D.   Throat swab and wait for
+    result  ","E.   White blood cell count and CRP  "]
+  CORRECT: 'B.   Rapid Antigen test  '
+- QUESTION_CODE: '1834'
+  QUESTION: |2-
+      Which is the most likely diagnosis?    A 16-year-old boy with multiple admission to AED in the past one month complaining palpitation and near syncope. He enjoyed good health before the onset of palpitation. He may have 3 to 4 episodes of palpitation in a week. There was no triggering factors, such as exercise or coffee. There were no associated symptoms, such as There were 4 episodes that required hospital admission in toto.   
+        
+      There were no abnormalities found on cardiovascular and abdominal examinations. ECG shown sinus tachycardia during the episode, but ECG was normal between the episodes. Thyroid function test, 24 hours catecholamine and echocardiogram shown normal function. Holter was performed. The maximum heart rate was found to be 189.  
+  ANSWERS: >-
+    ["A.   Excessive stress during play  ","B.   Hyperthyroidism  ","C.  
+    Stokes-Adams pattern  ","D.   Wolff-Parkinson-White syndrome  ","E.  
+    Paroxysmal supraventricular tachycardia  ","F.   Paroxysmal ventricular
+    tachycardia  ","G.   Phaeochromocytoma  ","H.   Ebstein`s anomaly  ","I.  
+    Congenital heart block  ","J.   Hypertrophic cardiomyopathy  ","K.  
+    Prolonged QT syndrome  "]
+  CORRECT: 'E.   Paroxysmal supraventricular tachycardia  '
+- QUESTION_CODE: '948'
+  QUESTION: |2-
+      For each patient with noisy breathing, select the most likely diagnosis.    A 2 year-old girl, Vinny, presented with difficulty with breathing suddenly at night. Her parents noticed that she was coughing with a bark-like nature and has stridor while breathing. There was also hoarseness of voice as well. In fact, Vinny has been unwell with runny nose, mild sore throat and a temperature of 37.9 degree Celsius 4 days ago. During this time, there was not much feeding problem. She has no recent contact with patients with fever.   
+        
+      Vinny was born full term by normal spontaneous delivery. Antenatal and postnatal are uneventful. She was not on any medication and has no known drug allergy. She has good past health and immunization is up-to-date.   
+       
+  ANSWERS: >-
+    ["A.   Angioedema  ","B.   Asthma  ","C.   Bronchiolitis  ","D.   Cystic
+    fibrosis  ","E.   Diphtheria  ","F.   Epiglottitis  ","G.   Foreign body
+    inhalation  ","H.   Laryngomalacia  ","I.   Measles  ","J.   Viral croup  "]
+  CORRECT: 'J.   Viral croup  '
+- QUESTION_CODE: '2627'
+  QUESTION: '  A 4-month-old girl, presented with failure to thrive, body weight under 3rd centile and poor feeding. On physical examination, the respiratory rate is 50, heart rate 140, chest recession, left parasternal heave, 3/6 Pansystolic murmur at LLSB and liver 1 cm below costal margin. Echocardiogram shows a perimembranous ventricular septal defect of 0.48 X 0.5cm.    Regarding to this case, which of the follow is most correct?     '
+  ANSWERS: >-
+    ["A.   Surgical intervention of VSD repair should be done at birth  ","B.  
+    Surgical intervention of VSD repair should be done at least over 3 months of
+    age  ","C.   There is no sign of heart failure in this patient.  ","D.  
+    Perimembranous VSD is not likely to have spontaneous closure.  ","E.  
+    Surgical complication of VSD repair is not age related.  "]
+  CORRECT: >-
+    B.   Surgical intervention of VSD repair should be done at least over 3
+    months of age  
+- QUESTION_CODE: '534'
+  QUESTION: '  For each patient with breathlessness, choose the most appropriate diagnosis.    A 9 year-old boy with a history of asthma since 3 years old, developed breathlessness for two days. He had cough with whitish sputum, runny nose. He was on prophylactic medication for his asthma and he used the inhaled steroid around three times per week and bronchodilator when there is cough. Patient`s mother claimed the asthma was already in good control. On admission, he was alert, afebrile and CXR was taken which showed bilateral hyperinflated lung.  '
+  ANSWERS: >-
+    ["A.   Acute epiglottitis  ","B.   Asthma  ","C.   Bronchiolitis  ","D.  
+    Foreign body inhalation  ","E.   Gastroesophageal reflux with aspiration 
+    ","F.   Pneumonia  ","G.   Tuberculosis  ","H.   Viral croup  "]
+  CORRECT: 'B.   Asthma  '
+- QUESTION_CODE: '847'
+  QUESTION: '  What is the most likely diagnosis for each of the following patient with complaints of cough together with associated signs and symptoms?    A 1 year old boy was admitted for fever, cough and breathing difficulty for 1 day. She had coryza symptoms few days ago. The patient is ill-looking. The temperature is 38.2oC and oxygen saturation 93%. Respiratory rate is 40 breaths per minute and heart rate 120 bpm. On physical examination inspiratory crackles and generalized wheezing can be heard. Chest X-ray shows hyperinflation of the lung and atelectasis.  '
+  ANSWERS: >-
+    ["A.   Pertussis  ","B.   Viral croup  ","C.   Acute epiglottis  ","D.  
+    Bronchiolitis  ","E.   Asthma  ","F.   Acute sinusitis  ","G.   Pneumococcal
+    pneumonia  ","H.   Mycoplasma pneumonia  ","I.   Tuberculosis  ","J.  
+    Bronchiectasis  ","K.   Laryngeal foreign body  ","L.   Gastro-esophageal
+    reflux  "]
+  CORRECT: 'D.   Bronchiolitis  '
+- QUESTION_CODE: '1098'
+  QUESTION: '  For each patient with noisy breathing, select the most likely diagnosis.    A 5-year-old boy presents to us with stridor that becomes worse on exertion and when he bends forward. Continuous harsh voice is also noted since birth. He was evaluated by a physician at the age of 1-month-old and amoxicillin syrup was given. However, the antibiotic syrup failed to improve his condition. This time, bronchoscopy is performed. The airway is seen to collapse and flabby aryepiglottic folds are sucked in during inspiration.  '
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiolitis  ","C.   Bronchomalacia  ","D.  
+    Epiglottitis  ","E.   Foreign body inhalation  ","F.   Laryngomalacia 
+    ","G.   Pneumonia  ","H.   Retropharyngeal abscess  ","I.   Recurrent croup 
+    ","J.   Viral croup  "]
+  CORRECT: 'F.   Laryngomalacia  '
+- QUESTION_CODE: '1036'
+  QUESTION: '  For each patient with fever, select the most likely diagnosis.    A 2-month-old boy admitted through the A&E Department because of fever and increased irritability for one day. Rectal temperature recorded to be 38.5   0   C at the time of admission. Otherwise, the history was unremarkable with no further signs and symptoms being elicited. Septic work-up had no abnormality detected.  '
+  ANSWERS: >-
+    ["A.   Bacterial Meningitis  ","B.   Viral upper respiratory tract
+    infection  ","C.   Fifth disease  ","D.   Gastroenteritis  ","E.   Kawasaki
+    disease  ","F.   Osteomyelitis  ","G.   Otitis media  ","H.   Rheumatic
+    fever  ","I.   Systemic lupus erythematosus  ","J.   Urinary tract
+    infection  "]
+  CORRECT: 'B.   Viral upper respiratory tract infection  '
+- QUESTION_CODE: '2125'
+  QUESTION: '     In which of the following cases of pneumothorases will chest drain insertion indicated before the attempt of simple aspiration?     '
+  ANSWERS: >-
+    ["A.   All cases of pneumothorases  ","B.   Pneumothorax larger than 2 cm on
+    chest X-ray  ","C.   Primary tension pneumothorax  ","D.   Spontaneous
+    pneumothorax secondary to other chest pathologies  ","E.   Recurrent
+    spontaneous pneumothorax  "]
+  CORRECT: 'D.   Spontaneous pneumothorax secondary to other chest pathologies  '
+- QUESTION_CODE: '2676'
+  QUESTION: '  A 9-year-old boy, known asthmatic, presented to the A&E department with acute dyspnoea following a day of cough and fever. On history taking, it was found that he required 3 puffs of beta-agonist inhalations per week. Physical examination found generalized wheeze with prolonged expiratory phase.    Which of the following statement best describes the long-term treatment for his chronic condition?     '
+  ANSWERS: >-
+    ["A.   Oral Montelukast only  ","B.   Oral Prednisolone only  ","C.  
+    Inhaled salbutamol + Parenteral beclomethasone  ","D.   Inhaled
+    beclomethasone only  ","E.   Inhaled salmeterol only  "]
+  CORRECT: 'D.   Inhaled beclomethasone only  '
+- QUESTION_CODE: '2414'
+  QUESTION: '  A seven year-old girl is presented to you in the outpatient clinic, with a known history of asthma diagnosed since she was three years old. She does not need to be absent from school in the past three months and can attend physical education classes normally. She uses short acting beta-agonist three times a week for daytime symptoms. She claims that she is being woken up by nocturnal couging or wheezing attacks once a week which are relieved by inhaling short acting beta2 agonists. There is no obvious precipitating factors for her attacks. Her peak expiratory flow rate is normal today.    Which of the following is the most appropriate management to control her asthma?     '
+  ANSWERS: >-
+    ["A.   Keep the current regime  ","B.   Add oral glucocorticoid  ","C.   Add
+    inhaled long acting beta2 agonists only  ","D.   Add inhaled steroid 
+    ","E.   Add theophylline  "]
+  CORRECT: 'D.   Add inhaled steroid  '
+- QUESTION_CODE: '1658'
+  QUESTION: |2-
+      For each patient with snoring, select the appropriate initial managements.    MH is a 12-year-old boy complaining of loud snoring and excessive day time sleepiness for 2 weeks. His parents recalled some `pauses` of snoring during sleep. There was morning headache. The sleep was un-refreshing and he complained of dry mouth in the morning. He adopted a regular sleep cycle from 11pm to 7am with no afternoon snap. He occasionally fell asleep during lesson and watching TV. His school teacher also complained of his poor attention in class.   
+      On examination the patient was afebrile. His body weight was 33kg. His height was 1.4m. No craniofacial abnormality was observed. Examination of the mouth revealed no enlarged tonsils. Examination of other systems was unremarkable. Overnight polysomnography showed signification respiratory pause with reduced oxygen saturation.  
+  ANSWERS: >-
+    ["A.   Continuous positive airway pressure  ","B.   Adenotonsillectomy 
+    ","C.   Tracheotomy  ","D.   Weight reduction  ","E.  
+    Uvulopalatopharyngoplasty  ","F.   Somnoplasty  ","G.   Oral antibiotics 
+    ","H.   Systemic steroid  ","I.   No treatment  ","J.   Craniofacial
+    surgery  ","K.   Antihistamine  "]
+  CORRECT: 'B.   Adenotonsillectomy  '
+- QUESTION_CODE: '1735'
+  QUESTION: '  For each patient with prolonged cough, please select the most likely diagnosis.    A 1 year-old boy was referred to the Paediatrician with a history of chronic cough for over 4 months, accompanied by shortness of breath and on-and-off fevers. Mother reported that she had been living in Africa, but had recently returned to Hong Kong after her husband had died after a long illness. Examination showed that the boy was significantly underweight with generalized oedema and lymphadenopathy. The parotid glands were also slightly enlarged. There was evidence of clubbing but no cyanosis or pallor. Occasional wheezes were noted but the remainder of the examination was unremarkable. Chest X ray showed that micronodular infiltrates throughout the lung fields.  '
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bacterial pneumonia  ","C.   Viral pneumonia  ","D.  
+    Fungal pneumonia  ","E.   Lymphocystic interstitial pneumonia  ","F.  
+    Tuberculosis  ","G.   Recurrent upper respiratory tract infection  ","H.  
+    Cystic fibrosis  ","I.   Bronchiectasis  ","J.   Gastro-esophageal reflux
+    disease  ","K.   Pertussis  ","L.   Tracheal agenesis  "]
+  CORRECT: 'E.   Lymphocystic interstitial pneumonia  '
+- QUESTION_CODE: '1780'
+  QUESTION: '  For each patient with chronic respiratory disease, select the most likely diagnosis.    A 3 year old girl who had past history of steatorrhoea and recurrent chest infections complained of persistent, loose cough productive of purulent sputum. On physical examination, Harrison`s sulcus, hyperexpansion of chest was noted. Bilateral wheeze and course crackle were heard on auscultation.  '
+  ANSWERS: >-
+    ["A.   Allergic rhinitis  ","B.   Asthma  ","C.   Bronchiectasis  ","D.  
+    Chronic obstructive pulmonary disease  ","E.   Chronic sinusitis  ","F.  
+    Cystic fibrosis  ","G.   Idiopathic pulmonary fibrosis  ","H.   Inhaled
+    foreign body  ","I.   Laryngomalacia  ","J.   Obstructive sleep apnoea
+    syndrome  "]
+  CORRECT: 'F.   Cystic fibrosis  '
+- QUESTION_CODE: '732'
+  QUESTION: '  For each patient with cough, select the most likely diagnosis.    A 36-year-old mother from China suffered from anorexia, fever, prolonged cough and night sweat for 6 months before delivery. She came to Hong Kong and was admitted to hospital shortly before delivery. Ultrasound performed two days before delivery showed intrauterine growth retardation with otherwise normal intrauterine morphology. The baby was born prematurely and suffered from increasing respiratory distress since birth. At 15 weeks, the neonate suffered from fever, poor feeding, failure to thrive, difficulty in breathing and prolonged cough. Physical examination shows hepatomegaly. Chest x-ray show nodular shadows and cavitations in upper zones.  '
+  ANSWERS: >-
+    ["A.   Asthma  ","B.   Bronchiectasis  ","C.   Bronchiolitis  ","D.  
+    Chronic sinusitis  ","E.   Croup  ","F.   Foreign body aspiration  ","G.  
+    Gastroesophageal reflux disease  ","H.   Postinfectious pneumonitis  ","I.  
+    Pulmonary tuberculosis  ","J.   Trachealesophageal fistula  "]
+  CORRECT: 'I.   Pulmonary tuberculosis  '
+- QUESTION_CODE: '1226'
+  QUESTION: |2-
+      For each patient with upper airway obstruction, select the most appropriate management.    Parents of a 5 year old boy complained that the child had snoring at night. The parents described that the snoring would become very loud cyclically, followed by silence, an arousal and resumption of snoring. The boy did not have any daytime somnolence and fatigue and there were no symptoms during the day.   
+      On physical examination, the patient has a BP of 90/55, heart rate 100/min, height and weight at 50th percentile on the growth chart. He is afebrile and not in any respiratory distress. Examination of the throat revealed enlarged tonsils and adenoids but not inflamed.   
+       
+  ANSWERS: >-
+    ["A.   Topical nasal steroids  ","B.   Craniofacial surgery  ","C.   Weight
+    loss  ","D.   Adenotonsillectomy  ","E.   H2 antagonist (ranitidine) 
+    ","F.   Continuous positive airway pressure  ","G.   Antibiotics  ","H.  
+    Tracheostomy  ","I.   Uvulopalatopharyngoplasty  ","J.   Nasal polypectomy 
+    ","K.   Inhaled steroids and bronchodilator  ","L.   Sedatives  "]
+  CORRECT: 'D.   Adenotonsillectomy  '
+- QUESTION_CODE: '367'
+  QUESTION: '  For each patient with noisy breathing, please select the most likely diagnosis.    A five year old boy was admitted for cough and wheeze for two months. He had two episodes of chest infection in the past. He also complains of frequent passing of oily, foul-smelling stools. The weight and height of the child was below the 10% of the population mean.  '
+  ANSWERS: >-
+    ["A.   Acute epiglottitis  ","B.   Anaphylaxis  ","C.   Asthma  ","D.  
+    Bacterial tracheitis  ","E.   Bronchiolitis  ","F.   Bronchitis  ","G.  
+    Cystic fibrosis  ","H.   Cord paralysis  ","I.   Foreign body  ","J.  
+    Laryngitis  ","K.   Laryngomalacia  ","L.   Laryngotracheobronchitis 
+    ","M.   Pharyngitis  ","N.   Pneumonia  ","O.   Heart failure  "]
+  CORRECT: 'G.   Cystic fibrosis  '
+- QUESTION_CODE: '494'
+  QUESTION: |2-
+      What is most likely diagnosis for these cases with noisy breathing?    A 3-year-old boy was admitted to the A&E department because of noisy breathing and shortness of breath. The child initially had minor cough for a day. The condition suddenly deteriorated within 4 hrs time. His mother noticed him looking very ill. There was high fever of 39   o   C. He had a painful throat. He didn`t want to speak or drink.   
+        
+      On examination, the boy was toxic looking. He looked immobile, sitting upright and with his mouth opened all the time. There was drooling of saliva. There was little spontaneous speech and the speech was muffled. On inspiration, there was soft stridor.  
+  ANSWERS: >-
+    ["A.   Acute epiglottitis  ","B.   Acute exacerbation of asthma  ","C.  
+    Bacterial tracheitis  ","D.   Bronchiolitis  ","E.   Common cold  ","F.  
+    Croup  ","G.   Foreign body inhalation  ","H.   Pneumonia  ","I.   Whooping
+    cough  "]
+  CORRECT: 'A.   Acute epiglottitis  '
+- QUESTION_CODE: '288'
+  QUESTION: '  For each patient with breathlessness, select the most suitable drug treatment.    A 17 year-old girl, was diagnosed with asthma since 3 years old, developed recurrent shortness of breath, wheeze and chest tightness for 3 days. On physical examination, she was dyspnoeic and breathing with accessory muscle. Bilateral expiratory rhonchi and end inspiratory fine crackles were present. Her expiratory phrase was prolonged. She was then clinically admitted to the hospital.  '
+  ANSWERS: >-
+    ["A.   Cephalosporins  ","B.   Codeine phosphate  ","C.   Epinephrine 
+    ","D.   Erythromycin  ","E.   Ipratropium bromide  ","F.   Leukotriene
+    modifier  ","G.   No treatment  ","H.   Paracetamol  ","I.   Prednisolone 
+    ","J.   Salmeterol  ","K.   Sodium cromoglycate  ","L.   Terbutaline
+    sulfate  ","M.   Theophylline  "]
+  CORRECT: 'L.   Terbutaline sulfate  '
