@@ -65,7 +65,11 @@
 <div class="container">
   <H1><div class="QUESTION_CODE">{{page.QUESTION_CODE}}</div></H1>
   <p><div class="QUESTION">{{page.QUESTION}}</div></p>
-  <ul class="ANSWERS"></ul>
+  <ul class="ANSWERS">
+	{% for entry in page.ANSWERS %}
+		<li> {{entry}} </li>
+	{% endfor %}
+  </ul>
 <button id="show_id" onclick="document.getElementById('spoiler_id').style.display=''; document.getElementById('show_id').style.display='none';">Show Answer</button><span id="spoiler_id" style="display: none"><button onclick="document.getElementById('spoiler_id').style.display='none'; document.getElementById('show_id').style.display='';" class="link">Hide Answer</button><br><p class="CORRECT">{{page.CORRECT}}</p></span>
 </div>
 <p><div class='list'></div></p>
