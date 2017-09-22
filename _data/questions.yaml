@@ -1,4 +1,5 @@
-- QUESTION_CODE: '543'st likely differential diagnosis?    A five year old boy with a moderate fever for 2 days, complaining of pain of the throat when swallowing saliva. The pharynx is red and swollen with large cervical lymph nodes. There is no cough or runny nose.  '
+- QUESTION_CODE: '543'
+  QUESTION: '  What is the most likely differential diagnosis?    A five year old boy with a moderate fever for 2 days, complaining of pain of the throat when swallowing saliva. The pharynx is red and swollen with large cervical lymph nodes. There is no cough or runny nose.  '
   ANSWERS:
     - 'A.   Bacterial meningitis  '
     - 'B.   Bronchitis  '
