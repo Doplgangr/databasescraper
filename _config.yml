@@ -3,3 +3,5 @@ collections:
 - questions
   values:
       layout: questions
+plugins:
+  - jekyll-sitemap
