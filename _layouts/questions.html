@@ -1,7 +1,79 @@
-{{page.QUESTION_CODE}}
+<html lang="en-US">
 
-{{page.QUESTION}}
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/databasescraper/assets/css/style.css?v=4f7f3863ebecf9b9389a1c046ab189c99898af43">
 
-{{page.ANSWERS}}
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<meta property="og:title" content="Question {{page.QUESTION_CODE}}"/>
+<meta property="og:description" content="Question {{page.QUESTION}}/>
+<meta name="description" content="Question {{page.QUESTION}}/>
+<meta property="og:locale" content="en_US" />
+<script type="application/ld+json">
+{"name":"databasescraper","description":null,"author":null,"@type":"WebSite","url":"https://doplgangr.github.io/databasescraper/","image":null,"publisher":null,"headline":"Question Bank Scraper","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+	
 
-{{page.CORRECT}}
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.1.4/dist/sheetrock.min.js"></script>
+</script>
+<script>
+	var URL = "";
+	var identifier = "";
+	var disqus_config = function () {
+		this.page.url = getURL(); //Replace PAGE_URL with your page's canonical URL variable
+		this.page.identifier = getID(); // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	};
+	var getURL = function(){
+		return {{page.url}};
+	}
+	var getID = function(){return {{page.QUESTION_CODE}}}
+	var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1lIZeueadG24egWy1imSU2iBk3ASj0-X83rUU1zJ3RlU/edit#gid=0';
+	$.each(JSON.parse('{{post.ANSWERS}}'), function(key,val) {
+				$("ul.ANSWERS").append( "<li id='" + key + "'>" + val + "</li>" );
+			  });	
+
+	(function() { // DON'T EDIT BELOW THIS LINE
+	var d = document, s = d.createElement('script');
+	s.src = 'https://questionbank-discuss.disqus.com/embed.js';
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
+</script>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+
+          <h1 id="project_title"></h1>
+          <h2 id="project_tagline"></h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+		
+    
+<div class="container">
+  <H1><div class="QUESTION_CODE">{{page.QUESTION_CODE}}</div></H1>
+  <p><div class="QUESTION">{{page.QUESTION}}</div></p>
+  <ul class="ANSWERS"></ul>
+<button id="show_id" onclick="document.getElementById('spoiler_id').style.display=''; document.getElementById('show_id').style.display='none';">Show Answer</button><span id="spoiler_id" style="display: none"><button onclick="document.getElementById('spoiler_id').style.display='none'; document.getElementById('show_id').style.display='';" class="link">Hide Answer</button><br><p class="CORRECT">{{page.CORRECT}}</p></span>
+</div>
+<p><div class='list'></div></p>
+
+<div id="disqus_thread"></div>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+      </section>
+</div>
+</body>
+</html>
